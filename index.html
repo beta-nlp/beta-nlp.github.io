@@ -7,7 +7,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title id="title"></title>
-    <link rel="icon" type="image/x-icon" href="static/assets/Congrui.ico" />
+    <link rel="icon" type="image/x-icon" href="static/assets/image.png" />
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
     <!-- Google fonts-->
@@ -24,6 +24,7 @@
     <link type="text/css" href="static/css/main.css" rel="stylesheet" />
 
 </head>
+
 
 <body id="page-top">
     <!-- Navigation-->
@@ -45,7 +46,7 @@
                         <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#project">SIDE PROJECTS</a>
+                        <a class="nav-link me-lg-3" href="#project">PROJECTS</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
@@ -54,13 +55,22 @@
                         <a class="nav-link me-lg-3" href="#service">SERVICE</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="https://drive.google.com/file/d/1G3PWfZ_YYm-t4r5OryWBzUeV29CiQJDY/view?usp=sharing">CV</a>
+                        <a class="nav-link me-lg-3" href="#team">TEAM</a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <nav class="d-flex align-items-center ms-2">
+                            <a href="/ch/" class="nav-link active me-2">中文</a>
+                            <span class="text-light">|</span>
+                            <!-- <a href="/" class="nav-link ms-2">English</a> -->
+                        </nav>
                     </li>
 
                 </ul>
             </div>
         </div>
     </nav>
+    
 
     <!-- Top Section -->
     <section class="top-section" style="background-image: url('static/assets/img/MIT.png');">
@@ -96,7 +106,7 @@
     <!-- Home -->
 
     <!-- Publications -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
+    <!-- <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
         <div class="container px-5">
             <header>
                 <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
@@ -104,7 +114,36 @@
             <div class="main-body" id="publications-md"></div>
 
         </div>
-    </section>
+    </section> -->
+
+
+
+
+    <!-- 在publications部分的header下方添加标签筛选栏 -->
+<!-- 修改index.html中Publications部分 -->
+<section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
+    <div class="container px-5">
+        <header>
+            <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
+            <!-- 新增标签筛选栏 -->
+            <div class="publication-tags mt-3 mb-4">
+                <button class="tag-btn active" data-tag="all">All</button>
+                <button class="tag-btn" data-tag="knowledge-graphs">Knowledge Graphs and Information Extraction</button>
+                <button class="tag-btn" data-tag="multimodal">Multimodal LLMs</button>
+                <button class="tag-btn" data-tag="multilingual">Multilingual Information Processing</button>
+            </div>
+        </header>
+        <div class="main-body" id="publications-md"></div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
     <!-- Publications  -->
 
     <!-- Side Project -->
@@ -112,7 +151,7 @@
         <div class="container px-5">
             <header>
                 <!-- <h2 id="achievements-subtitle"><i class="bi bi-trophy-fill"></i>&nbsp;ACHIEVEMENTS</h2> -->
-                <h2 id="achievements-subtitle"><i class="bi bi-code-slash"></i>&nbsp; SIDE PROJECTS</h2>
+                <h2 id="achievements-subtitle"><i class="bi bi-code-slash"></i>&nbsp; PROJECTS</h2>
             </header>
             <div class="main-body" id="project-md">
             </div>
@@ -142,6 +181,15 @@
         </div>
     </section>
     <!-- Service -->
+
+    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="team">
+        <div class="container px-5">
+            <header>
+                <h2 id="awards-subtitle"><i class="bi bi-chat-left-text"></i>&nbsp;TEAM </h2>
+            </header>
+            <div class="main-body" id="team-md"></div>
+        </div>
+    </section>
 
 
 

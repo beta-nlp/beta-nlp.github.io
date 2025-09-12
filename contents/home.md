@@ -1,68 +1,31 @@
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-yin-a21314292/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerryYin777)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%230A4D92?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en#)
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%231E2A2A?style=for-the-badge&logo=zhihu&logoColor=blue)](https://www.zhihu.com/people/ycr222/posts)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beta-nlp)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%230A4D92?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=WSqhHRYAAAAJ&hl=zh-CN&oi=ao)
+<!-- [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%231E2A2A?style=for-the-badge&logo=zhihu&logoColor=blue)](https://www.zhihu.com/people/ycr222/posts) -->
 
 
 #### News
 
-* <strong style="color:red;"><strong>I’m actively looking for Machine Learning System and O1/MLLM/LLM Industrial/Research Opportunity.</strong></strong> <strong><strong>This includes</strong></strong> 
-    * Train more powerful reasoning models like [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) and [QwQ](https://huggingface.co/Qwen/QwQ-32B-Preview). 
-    * Improve RLHF training frameworks in the direction of reinforcement learning (such as [veRL](https://github.com/volcengine/verl) and [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)).
-    * Develop robust inference frameworks like [SGLang](https://github.com/sgl-project/sglang).
+<!-- * <strong style="color:red;"><strong>欢送2025届硕士研究生顺利毕业.这是你们不懈努力和毅力的结晶，更是你们智慧和才华的体现。愿你们在接下来的人生道路上继续保持着对知识的热爱和追求，不断超越自我，创造更加辉煌的成就。愿你们的人生充满阳光，事业蒸蒸日上，前程似锦！</strong></strong>  -->
 
-If you need a reliable teammate who is familiar with <strong style="color:red;"><strong>both NLP and computer systems </strong></strong> with <strong style="color:red;"><strong>extensive industry experiences</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
+* <strong style="color:red;"><strong>In August 2025, Ph.D. candidate Shuanghong Huang won the Best Paper Award at the 2nd International Conference on Multilingual Intelligent Information Processing (IMLIP)</strong></strong> 
+* <strong style="color:red;"><strong>In May 2025, master’s student  Kaiyuan Zhang won the first place in the "Chinese Electronic Medical Record ICD Diagnostic Coding Evaluation" task at the Tianchi Big Data Competition.</strong></strong> 
+* <strong style="color:red;"><strong>Farewell to the 2025 cohort of master’s graduates on their successful graduation. This is the fruit of your unremitting efforts and perseverance. May you continue to hold fast to your passion for and pursuit of knowledge in the upcoming journey of life, constantly surpass yourselves, and achieve even more brilliant accomplishments!</strong></strong> 
+* <strong style="color:red;"><strong>In November 2024, Ph.D. candidate Xuan Zhao won the Outstanding English Paper Award at the 20th China Conference on Machine Translation (CCMT2024)!</strong></strong> 
+
 
 
 #### Biography
 
-My name is Jerry Yin. I got my bachelor Degree in computer science with Distinction at University of Minnesota Twin Cities in December 2024, supervised by Prof. [Zirui Liu](https://zirui-ray-liu.github.io/) and [Jiayi Yuan](https://jy-yuan.github.io/) (Ph.D. Candidate). In the summer of 2023, I visited [TsinghuaNLP](https://github.com/thunlp) and conducted research under Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), where I received invaluable mentorship from [Weilin Zhao](https://brawny-college-5b2.notion.site/Weilin-Zhao-11d20b7deb8280388213d5f5ed072992) (Ph.D. Candidate) and [Xu Han](https://thucsthanxu13.github.io/) (Research Assistant Professor), for which I am deeply grateful.
-
-I have experience in NLP and computer systems(both architecture and high performance machine learning systems), along with extensive industry research internship experience. This includes:
-
-* Participating in the pretraining of the Yi-Lightning model at 01.AI.
-* Contributing to ML Infra of the pretraining of the foundation model at ModelBest (with TsinghuaNLP).
-* Participating in the finetuning of the CodeLLM [Raccoon](https://raccoon.sensetime.com/code) (Copilot-like) at SenseTime (with CUHK MMLab).
-
-#### Research Interests
-
-My current passion revolves around building **EFFICIENT** system solutions to AGI (<strong style="color:red;"><strong>Now I am interested in O1-like models ML Infra</strong></strong>), this includes:
-
-1. <strong><strong>Machine Learning System</strong></strong> 
-    * Training: Design more effective training system and algorithms, example includes [BMTrain](https://github.com/OpenBMB/BMTrain).
-    * Parameter Efficient Fine Tuning (PEFT): Improve LoRA-like architecture and low bit model compression. example includes [IAPT](https://aclanthology.org/2024.acl-long.771.pdf). 
-    * Long context inference: example includes [Cross Layer Attention](https://github.com/JerryYin777/Cross-Layer-Attention).
-2. <strong><strong>LLM & LLM applications</strong></strong> 
-    * CodeLLM
-    * Foundation LLM (Yi-lightning)
-    * RAG (GraphRAG): Examples includes [PaperHelper](https://github.com/JerryYin777/PaperHelper).
-
-#### Education
-
-🕒 **2023.12 - 2024.12**  
-📍 **University of Minnesota Twin Cities**  
-🎓 **B.A. in Computer Science with Distinction**
-
----
-
-🕒 **2021.9 - 2023.8** *(Transferred Out)*  
-📍 **Nanchang University**  
-🎓 **B.Eng. in Artificial Intelligence**
+<!-- 本课题组隶属于信息智能处理与内容安全工信部重点实验室。目前有在读研究生23名。
+课题组的研究聚焦于**多语信息处理（机器翻译）**、**多模态预训练语言模型**、**知识图谱和信息抽取**、**智慧健康与医疗大模型**等多个方向。承担国家重点研发计划项目、国家863计划项目、国家自然科学基金等各类科研项目10余项，作为核心骨干参与国防项目5项。所研制开发的技术和平台多个国家重点部门部署运行，突破了关键技术，取得了显著效果，产生了良好效益。在TKDE、KBS、SIGIR、EMNLP、AAAI等高水平国际期刊和会议发表一作论文SCI索引10余篇、EI索引20余篇。获省部级一等奖1奖、省部级二等奖1项（排名第4）、省部级三等奖2项（排名均为第2）、国防科技成果鉴定4项 -->
 
 
-#### Misc
+This research group is affiliated with the **Key Laboratory of Intelligent Information Processing and Content Security, Ministry of Industry and Information Technology**. Currently, it has 28 graduate students pursuing their degrees. The group’s research focuses on multiple directions, including **Multilingual Information Processing (Machine Translation)**, **Multimodal Large Language Models**, **Knowledge Graphs and Information Extraction**, as well as **Smart Healthcare and Medical Large Models**. It undertakes more than 10 scientific research projects of various types, such as projects under the National Key R&D Program, the National 863 Program, and the National Natural Science Foundation of China (NSFC).The technologies and platforms developed by the group have been deployed and put into operation in a number of national key departments. These efforts have achieved breakthroughs in key technologies, delivered remarkable results, and generated favorable social and economic benefits. In high-level international journals and conferences (e.g., TKDE, KBS, SIGIR, EMNLP, AAAI), the group has published over 10 first-author papers indexed in SCI and more than 20 first-author papers indexed in EI. It has also won 1 First Prize, 1 Second Prize (ranking 4th), and 2 Third Prizes (both ranking 2nd) at the provincial and ministerial level.
 
-* Before transferring to the University of Minnesota, I studied at Nanchang University, majoring in Artificial Intelligence in a top-tier class with a School Academic Special Scholarship. I was the leader of Nanchang University Supercomputer Cluster Team ([NCUSCC](https://ncuscc.github.io/)) Leader, with experience of ASC22 and SC23(IndySCC). 
+<!-- #### Research Interests -->
 
-* I am passionate about open source and firmly believe in its potential to disseminate knowledge widely, leverage technology to lead innovation to the world and contribute to the advancement of human society. I am proud to have garnered over **4k stars** and acquired over **370 followers** on [GitHub](https://github.com/JerryYin777). I occasionally share my explorations in the machine learning system and LLM field on [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%231E2A2A?style=for-the-badge&logo=zhihu&logoColor=blue)](https://www.zhihu.com/people/ycr222/posts) in Mandarin.
 
-* I love league of legends and valorant games!
 
 #### Contact<p id="contact-info"></p>
-
-* </strong></strong>I am very enthusiastic about discussing academic issues or any interesting project-related topics! </strong></strong> If you'd like to engage in a discussion or collaborate, feel free to contact me via email at any time. 
-
-* If you're an undergraduate student feeling uncertain, especially from a diverse background, and hope to gain some learning experiences from me, I also warmly welcome that!
-
-* ✉️ [yin00486 [at] umn.edu](mailto:yin00486@umn.edu)
+E-mail：fengchong@bit.edu.cn , tinkersxy@gmail.com

@@ -10900,6 +10900,119 @@ section {
 }
 
 
+/* 标签按钮样式 */
+/* 标签容器 */
+.publication-tags {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 15px 0 25px; /* 增加上下间距，突出标签栏 */
+}
+
+/* 基础标签样式（非选中态） */
+.tag-btn {
+  padding: 8px 18px; /* 增大点击区域 */
+  border: 2px solid transparent; /* 预留边框空间，避免选中时跳动 */
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: 500; /* 基础文字加粗 */
+  font-size: 14px;
+  transition: all 0.2s ease-in-out; /* 快速过渡，增强交互感 */
+  letter-spacing: 0.3px;
+}
+
+/* 非选中态颜色（降低饱和度和亮度，显得柔和） */
+.tag-btn[data-tag="knowledge-graphs"] {
+  background-color: #e8f5e9; /* 浅绿 */
+  color: #2e7d32; /* 深绿文字 */
+}
+
+.tag-btn[data-tag="multimodal"] {
+  background-color: #e3f2fd; /* 浅蓝 */
+  color: #1565c0; /* 深蓝文字 */
+}
+
+.tag-btn[data-tag="multilingual"] {
+  background-color: #fff3e0; /* 浅橙 */
+  color: #e65100; /* 深橙文字 */
+}
+
+.tag-btn[data-tag="all"] {
+  background-color: #f5f5f5; /* 浅灰 */
+  color: #616161; /* 深灰文字 */
+}
+
+/* 选中态样式（强化对比） */
+.tag-btn.active {
+  /* 颜色反转，使用原色系的饱和色 */
+  background-color: var(--active-bg);
+  color: white;
+  /* 增加白色边框，突出边缘 */
+  border-color: rgba(255, 255, 255, 0.8);
+  /* 增大尺寸，形成视觉焦点 */
+  transform: scale(1.08);
+  /* 加深阴影，增强立体感 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  /* 文字加粗，提升辨识度 */
+  font-weight: 700;
+}
+
+/* 为每个标签单独定义选中态背景色（使用高饱和色） */
+.tag-btn[data-tag="knowledge-graphs"].active {
+  --active-bg: #4CAF50; /* 饱和绿 */
+}
+
+.tag-btn[data-tag="multimodal"].active {
+  --active-bg: #2196F3; /* 饱和蓝 */
+}
+
+.tag-btn[data-tag="multilingual"].active {
+  --active-bg: #ff9800; /* 饱和橙 */
+}
+
+.tag-btn[data-tag="all"].active {
+  --active-bg: #616161; /* 深灰 */
+}
+
+/* 悬停效果（增强交互反馈） */
+.tag-btn:not(.active):hover {
+  transform: scale(1.03);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+}
+
+/* 文章类别标记（保持与标签颜色一致） */
+.category-badges {
+  display: inline-flex;
+  gap: 6px;
+  margin-left: 12px;
+}
+
+.category-badge {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); /* 增加小阴影，让标记更清晰 */
+}
+
+/* 保持类别标记与对应标签的颜色一致 */
+.category-badge.knowledge-graphs {
+  background-color: #4CAF50;
+}
+
+.category-badge.multimodal {
+  background-color: #2196F3;
+}
+
+.category-badge.multilingual {
+  background-color: #ff9800;
+}
+
+
+
+
+
+
+
 footer a {
   color: rgba(255, 255, 255, 0.5);
   text-decoration: none;
