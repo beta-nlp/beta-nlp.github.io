@@ -40,7 +40,6 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 -  J Sha, M Zhu, C Feng, Y Shang. VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models. Proceedings of the 31st International Conference on Computational Linguistics, 2025.* [[Paper]](https://aclanthology.org/2025.coling-main.533/) {categories: [multilingual]}
 
--  X Zhao, C Feng, S Huang, J Wang, H Xu. Incorporating Terminology Knowledge into Large Language Model for Domain-Specific Machine Translation. China Conference on Machine Translation, 82-96, 2024.* [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-2292-4_6){categories: [multilingual]}
 
 -  L Hongzheng, W Ruojin, F Chong, L Fang. 英语科技论文摘要语步结构语料库构建研究 (Research on Construction of Corpus for Move Structures in Abstracts of English Scientific Research Articles).Proceedings of the 23rd Chinese National Conference on Computational Linguistics.* [[Paper]](https://aclanthology.org/2024.ccl-1.66/){categories: [multilingual]}
 
@@ -48,7 +47,6 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 -  S Huang, C Feng, G Shi, Z Li, X Zhao, X Li, X Wang. Learning Domain Specific Sub-layer Latent Variable for Multi-Domain Adaptation Neural Machine Translation. ACM Transactions on Asian and Low-Resource Language Information Processing.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3661305){categories: [multilingual]}
 
 
--  X Zhao, C Feng, S Huang, J Wang. (2023). Incorporating Terminology Knowledge into Large Language Model. Machine Translation: 20th China Conference, CCMT 2024, Xiamen, China, 2025.* [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-2292-4_6){categories: [multilingual]}
 
 -  M Zhu, C Feng. 面向心理健康咨询的藏语数据集及大语言模型构建. 23rd Chinese National Conference on Computational Linguistics, CCL 2024, 326-339, 2024.* [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WSqhHRYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=WSqhHRYAAAAJ:tS2w5q8j5-wC){categories: [multilingual]}
 
