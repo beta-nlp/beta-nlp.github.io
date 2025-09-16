@@ -25,7 +25,7 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 <!-- #### Multimodal Large Language Models -->
 
--  Q Su, C Feng, G Shi, B Wang, Y Zhuang. Enhancing discriminative ability in multimodal LLMs: A contrastive learning approach for CT report generation. Information Fusion, 103240, 2025.*[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003136){categories: [multimodal]}
+<!-- -  Q Su, C Feng, G Shi, B Wang, Y Zhuang. Enhancing discriminative ability in multimodal LLMs: A contrastive learning approach for CT report generation. Information Fusion, 103240, 2025.*[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003136){categories: [multimodal]} -->
 
 
 
@@ -41,7 +41,7 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 -  J Sha, M Zhu, C Feng, Y Shang. VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models. Proceedings of the 31st International Conference on Computational Linguistics, 2025.* [[Paper]](https://aclanthology.org/2025.coling-main.533/) {categories: [multilingual]}
 
 
--  L Hongzheng, W Ruojin, F Chong, L Fang. 英语科技论文摘要语步结构语料库构建研究 (Research on Construction of Corpus for Move Structures in Abstracts of English Scientific Research Articles).Proceedings of the 23rd Chinese National Conference on Computational Linguistics.* [[Paper]](https://aclanthology.org/2024.ccl-1.66/){categories: [multilingual]}
+<!-- -  L Hongzheng, W Ruojin, F Chong, L Fang. 英语科技论文摘要语步结构语料库构建研究 (Research on Construction of Corpus for Move Structures in Abstracts of English Scientific Research Articles).Proceedings of the 23rd Chinese National Conference on Computational Linguistics.* [[Paper]](https://aclanthology.org/2024.ccl-1.66/){categories: [multilingual]} -->
 
 
 -  S Huang, C Feng, G Shi, Z Li, X Zhao, X Li, X Wang. Learning Domain Specific Sub-layer Latent Variable for Multi-Domain Adaptation Neural Machine Translation. ACM Transactions on Asian and Low-Resource Language Information Processing.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3661305){categories: [multilingual]}
