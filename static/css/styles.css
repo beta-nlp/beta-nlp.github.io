@@ -10985,6 +10985,7 @@ section {
   display: inline-flex;
   gap: 6px;
   margin-left: 12px;
+  vertical-align: middle; /* 关键：与文本中线对齐，消除基线差异导致的错位 */
 }
 
 .category-badge {
@@ -11005,6 +11006,104 @@ section {
 
 .category-badge.multilingual {
   background-color: #ff9800;
+}
+
+
+
+
+
+/* 1. Faculty卡片容器：控制多个卡片的排列（桌面端横向、移动端纵向） */
+.faculty-card-container {
+  display: flex;
+  flex-wrap: wrap; /* 自动换行，避免溢出 */
+  gap: 2.5rem; /* 卡片之间的间距，可调整 */
+  justify-content: flex-start;
+  margin-top: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+/* 2. 单个Faculty卡片：背景、阴影、圆角（增强立体感） */
+.faculty-card {
+  display: flex;
+  flex-direction: column; /* 头像在上，简介在下 */
+  align-items: center; /* 内容居中 */
+  width: 280px; /* 卡片宽度，适配头像+文字 */
+  padding: 1.5rem 1rem;
+  background-color: #ffffff; /* 卡片背景色，需匹配网页主题（如原页面浅色背景） */
+  border-radius: 10px; /* 圆角，柔和风格 */
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08); /* 轻微阴影，不突兀 */
+  transition: box-shadow 0.3s ease; /*  hover时阴影加深，增强交互感 */
+}
+
+/* 卡片hover效果：鼠标悬浮时突出 */
+.faculty-card:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.12);
+}
+
+/* 3. 头像样式：圆形（学术页面常见风格）+ 边框 */
+.faculty-avatar {
+  width: 120px; /* 头像宽度，可调整 */
+  height: 120px; /* 1:1比例，确保圆形 */
+  border-radius: 50%; /* 圆形头像 */
+  object-fit: cover; /* 图片自适应，避免拉伸变形 */
+  border: 3px solid #f0f5ff; /* 浅色边框，区分头像与背景 */
+  margin-bottom: 1rem; /* 头像与简介的间距 */
+}
+
+/* 4. 简介文字样式：层级分明，匹配网页字体 */
+.faculty-info {
+  text-align: center; /* 文字居中，美观 */
+  width: 100%;
+  font-family: 'Mulish', sans-serif; /* 复用网页原有字体（index.html引入的Google字体） */
+}
+
+/* 姓名：加粗+突出颜色 */
+.faculty-name {
+  font-size: 1.15rem;
+  color: #2d3748; /* 深色，突出姓名 */
+  margin-bottom: 0.4rem;
+  font-weight: 600;
+}
+
+/* 任职时间：浅色+小字体 */
+.faculty-period {
+  font-size: 0.85rem;
+  color: #718096; /* 灰色，次要信息 */
+  margin-bottom: 0.3rem;
+}
+
+/* 身份（院系）：中等权重+清晰颜色 */
+.faculty-role {
+  font-size: 0.9rem;
+  color: #4a5568;
+  margin-bottom: 0.3rem;
+  font-weight: 500;
+}
+
+/* 研究方向：常规文字 */
+.faculty-research {
+  font-size: 0.88rem;
+  color: #2d3748;
+  margin-bottom: 0.3rem;
+  line-height: 1.4; /* 换行时更易读 */
+}
+
+/* 荣誉：橙色+斜体（突出重要信息，参考image中奖项样式） */
+.faculty-honor {
+  font-size: 0.82rem;
+  color: #e67e22; /* 橙色，区分荣誉 */
+  font-style: italic;
+}
+
+/* 5. 响应式适配：移动端单列显示 */
+@media (max-width: 768px) {
+  .faculty-card-container {
+    justify-content: center; /* 移动端卡片居中 */
+  }
+  .faculty-card {
+    width: 90%; /* 移动端卡片占满屏幕宽度 */
+    max-width: 320px; /* 限制最大宽度，避免过大 */
+  }
 }
 
 

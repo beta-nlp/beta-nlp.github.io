@@ -100,13 +100,41 @@ function getCurrentLang() {
 
 
 // 初始化出版物筛选功能
+// 修改initPublicationFilter函数中的内容处理部分
 function initPublicationFilter() {
-    // 等待Markdown内容加载完成
+    // 先绑定标签点击事件（标签是静态元素，无需等待Markdown加载）
+    const tagButtons = document.querySelectorAll('.tag-btn');
+    const selectedTags = new Set();
+
+    // 标签点击事件处理（移到setTimeout外面）
+    tagButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            const tag = button.dataset.tag;
+            
+            if (tag === 'all') {
+                selectedTags.clear();
+                tagButtons.forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+            } else {
+                if (selectedTags.has(tag)) {
+                    selectedTags.delete(tag);
+                    button.classList.remove('active');
+                } else {
+                    selectedTags.add(tag);
+                    button.classList.add('active');
+                    document.querySelector('.tag-btn[data-tag="all"]').classList.remove('active');
+                }
+            }
+
+            filterPublications(selectedTags);
+        });
+    });
+
+    // 等待Markdown内容加载完成处理文章（保持不变）
     setTimeout(() => {
         const publicationsContainer = document.getElementById('publications-md');
         if (!publicationsContainer) return;
 
-        // 获取所有文章元素（假设是p标签或li标签）
         const items = Array.from(publicationsContainer.querySelectorAll('li'));
         const categoryMap = {
             'knowledge-graphs': 'Knowledge Graphs',
@@ -114,22 +142,20 @@ function initPublicationFilter() {
             'multilingual': 'Multilingual'
         };
 
-        // 处理每篇文章，提取分类信息
         items.forEach(item => {
-            const text = item.textContent.trim();
-            const categoryMatch = text.match(/\{categories: \[(.*?)\]\}/);
+            // 保留HTML结构（修复链接可点击问题）
+            const html = item.innerHTML.trim();
+            const categoryMatch = html.match(/\{categories: \[(.*?)\]\}/);
             
             if (categoryMatch) {
-                // 提取分类
                 const categories = categoryMatch[1]
                     .split(',')
                     .map(c => c.trim().replace(/['"]/g, ''));
                 
-                // 移除原始文本中的分类标记
-                const cleanedText = text.replace(/\{categories: \[(.*?)\]\}/, '').trim();
-                item.innerHTML = cleanedText;
+                const cleanedHtml = html.replace(/\{categories: \[(.*?)\]\}/, '').trim();
+                item.innerHTML = cleanedHtml;
                 
-                // 添加分类标记元素
+                // 创建徽章容器
                 const badgesContainer = document.createElement('span');
                 badgesContainer.className = 'category-badges';
                 
@@ -139,70 +165,44 @@ function initPublicationFilter() {
                     badge.title = categoryMap[cat] || cat;
                     badgesContainer.appendChild(badge);
                 });
-                
-                item.appendChild(badgesContainer);
+        
+                // 【关键修改】：找到<p>标签，将徽章插入到<p>内部末尾（而非li末尾）
+                const articlePara = item.querySelector('p'); // 匹配markdown生成的<p>标签
+                if (articlePara) {
+                    articlePara.appendChild(badgesContainer); // 插入到<p>内部
+                } else {
+                    // 兼容异常结构（若没有<p>标签，仍插入到li末尾）
+                    item.appendChild(badgesContainer);
+                }
+        
                 item.dataset.categories = categories.join(',');
                 item.classList.add('publication-item');
             } else {
-                // 没有分类的文章默认显示
                 item.classList.add('publication-item');
                 item.dataset.categories = '';
             }
         });
 
-        // 标签点击事件
-        const tagButtons = document.querySelectorAll('.tag-btn');
-        const selectedTags = new Set();
-
-        tagButtons.forEach(button => {
-            button.addEventListener('click', () => {
-                const tag = button.dataset.tag;
-                
-                // 处理"全部"标签
-                if (tag === 'all') {
-                    selectedTags.clear();
-                    tagButtons.forEach(btn => btn.classList.remove('active'));
-                    button.classList.add('active');
-                } else {
-                    // 切换标签选中状态
-                    if (selectedTags.has(tag)) {
-                        selectedTags.delete(tag);
-                        button.classList.remove('active');
-                    } else {
-                        selectedTags.add(tag);
-                        button.classList.add('active');
-                        // 取消"全部"标签的选中状态
-                        document.querySelector('.tag-btn[data-tag="all"]').classList.remove('active');
-                    }
-                }
-
-                // 筛选文章
-                filterPublications(selectedTags);
-            });
-        });
-
         // 默认选中"全部"标签
         document.querySelector('.tag-btn[data-tag="all"]').classList.add('active');
-    }, 1000); // 等待Markdown解析完成
+    }, 1000);
 }
 
-// 根据选中的标签筛选文章
+// 修改筛选函数中的显示样式
 function filterPublications(selectedTags) {
     const items = document.querySelectorAll('.publication-item');
     
     items.forEach(item => {
         const itemCategories = item.dataset.categories.split(',');
         
-        // 显示逻辑：
-        // 1. 没有选中任何标签时显示所有文章
-        // 2. 选中标签时，显示至少包含一个选中标签的文章
+        // 显示逻辑：使用list-item保持列表样式
         if (selectedTags.size === 0) {
-            item.style.display = 'block';
+            item.style.display = 'list-item'; // 改为list-item
         } else {
             const hasMatchingCategory = Array.from(selectedTags).some(tag => 
                 itemCategories.includes(tag)
             );
-            item.style.display = hasMatchingCategory ? 'block' : 'none';
+            item.style.display = hasMatchingCategory ? 'list-item' : 'none'; // 改为list-item
         }
     });
 }
