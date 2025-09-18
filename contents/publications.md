@@ -3,6 +3,12 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 <!-- #### Knowledge Graphs and Information Extraction -->
 <!-- -  Xinyu Zhang, Linmei Hu, Luhao Zhang, Wentao Cheng, Yashen Wang, Ge Shi, Chong Feng, Liqiang Nie. Bi-Tuning with Collaborative Information for Controllable LLM-based Sequential Recommendation. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025. [[Paper]](https://aclanthology.org/2025.acl-long.949/){categories: [knowledge-graphs]} -->
 
+
+-  Silin Li, Yuhang Guo, Jiashu Yao, Zeming Liu, and Haifeng Wang. HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025. [[Paper]](https://arxiv.org/abs/2505.19628){categories: [multilingual]}
+
+-  Li Zeng, Zeming Liu, Chong Feng, Heyan Huang, and Yuhang Guo. DocMEdit: Towards Document-Level Model Editing. Findings of the Association for Computational Linguistics, ACL 2025 findings. [[Paper]](https://arxiv.org/abs/2505.19572){categories: [multilingual]}
+
+
 -  Jianfei Zhao, Feng Zhang, Xin Sun, Chong Feng. Selecting the best rather than ranking correctly: A multi-metrics ranker for summarization. Expert Systems with Applications 276, 127144, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457324003996){categories: [knowledge-graphs]}
 
 
@@ -15,6 +21,10 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 -  J Sha, M Zhu, C Feng, Y Shang. VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models. Proceedings of the 31st International Conference on Computational Linguistics, 2025. [[Paper]](https://aclanthology.org/2025.coling-main.533/){categories: [multilingual]}
 
 -  X Zhao, C Feng, S Huang, J Wang. (2023). Incorporating Terminology Knowledge into Large Language Model. Machine Translation: 20th China Conference, CCMT 2024, Xiamen, China, 2025. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-2292-4_6){categories: [multilingual]}
+
+- Xiaoming Shi, Zeming Liu, Li Du, Yuxuan Wang, Hongru Wang, Yuhang Guo, Tong Ruan, Jie Xu, Xiaofan Zhang, and Shaoting Zhang. Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges. Findings of the Association for Computational Linguistics, ACL 2024. [[Paper]](https://aclanthology.org/2024.findings-acl.167/){categories: [multilingual]}
+
+-  Silin Li, Ruoyu Song, Tianwei Lan, Zeming Liu, and Yuhang Guo. TED-EL: A Corpus for Speech Entity Linking. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, LREC-COLING 2024.[[Paper]](https://aclanthology.org/2024.lrec-main.1365/){categories: [multimodal]}
 
 
 -  S Huang, C Feng, G Shi, Z Li, X Zhao, X Li, X Wang. Learning Domain Specific Sub-layer Latent Variable for Multi-Domain Adaptation Neural Machine Translation. ACM Transactions on Asian and Low-Resource Language Information Processing. 2024 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3661305){categories: [multilingual]}
@@ -29,7 +39,11 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 
 
--  B Wang, H Huang, Y Cao, J Ying, W Tang, C Feng. QRMeM: Unleash the Length Limitation through Question then Reflection Memory Mechanism. EMNLP, 2024. [[Paper]](https://arxiv.org/abs/2406.13167){categories: [knowledge-graphs]}
+-  B Wang, H Huang, Y Cao, J Ying, W Tang, C Feng. QRMeM: Unleash the Length Limitation through Question then Reflection Memory Mechanism. EMNLP 2024. [[Paper]](https://arxiv.org/abs/2406.13167){categories: [knowledge-graphs]}
+
+-  Bao Chen, Yuanjie Wang, Zeming Liu, and Yuhang Guo. Automatic Evaluate Dialogue Appropriateness by Using Dialogue Act. EMNLP 2023. [[Paper]](https://aclanthology.org/2023.findings-emnlp.492/){categories: [multilingual]}
+
+-  Mengge Liu, Wen Zhang, Xiang Li, Jian Luan, Bin Wang, Yuhang Guo, and Shuoying Chen. Rethinking the Reasonability of the Test Set for Simultaneous Machine Translation. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2023.[[Paper]](https://ieeexplore.ieee.org/abstract/document/10095739/){categories: [multilingual]}
 
 
 
