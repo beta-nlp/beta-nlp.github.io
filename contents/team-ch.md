@@ -4,6 +4,7 @@
 <!-- Faculty卡片容器：控制多个卡片的布局 -->
 <div class="faculty-card-container">
   <!-- 第一位Faculty：Chong Feng -->
+  <a href="https://cs.bit.edu.cn/szdw/jsml/bssds/d19aacaa824841fa8ea60a9a665d9625.htm" class="faculty-link">
   <div class="faculty-card">
     <!-- 头像 -->
     <img 
@@ -19,6 +20,7 @@
       <p class="faculty-honor">[相关荣誉，如XX Project PI, ACL Senior Program Committee]</p> -->
     </div>
   </div>
+  </a>
 
    <div class="faculty-card">
     <!-- 头像 -->
@@ -35,6 +37,24 @@
       <p class="faculty-honor">[相关荣誉，如XX Project PI, ACL Senior Program Committee]</p> -->
     </div>
   </div>
+
+  <a href="https://cs.bit.edu.cn/szdw/jsml/sssds/46c68d5f9f064fc6bd6b510a62f7c189.htm" class="faculty-link">
+  <div class="faculty-card">
+    <!-- 头像 -->
+    <img 
+      src="../static/assets/head/guoyuhang.jpg" 
+      alt="Yuhang Guo"  
+      class="faculty-avatar"
+    >
+    <!-- 下方简介 -->
+    <div class="faculty-info">
+      <h4 class="faculty-name">郭宇航</h4>
+      <p class="faculty-role">讲师, 硕士生导师</p>
+      <!-- <p class="faculty-research">Research Focus: [研究方向]</p>
+      <p class="faculty-honor">[相关荣誉]</p> -->
+    </div>
+  </div>
+</a>
 
 
   <div class="faculty-card">

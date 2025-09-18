@@ -11107,6 +11107,112 @@ section {
 }
 
 
+/* 1. 项目卡片容器：flex布局，自适应换行 */
+.project-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem; /* 卡片之间的间距 */
+  justify-content: flex-start;
+  margin-top: 1.5rem;
+  padding: 0.5rem 0;
+}
+
+/* 2. 单个项目卡片：模拟GitHub接口卡片样式 */
+.project-card {
+  display: flex;
+  flex-direction: column;
+  width: 300px; /* 固定宽度，与原接口卡片一致 */
+  height: 180px; /* 固定高度，避免内容差异导致布局混乱 */
+  padding: 1.2rem;
+  background-color: #ffffff; /* 白色背景 */
+  border-radius: 6px; /* 圆角 */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* 轻微阴影 */
+  color: #333333; /* 文字颜色 */
+  text-decoration: none; /* 去除链接下划线 */
+  transition: box-shadow 0.3s ease; /* hover时阴影加深 */
+}
+
+/* 卡片hover效果：增强交互感 */
+.project-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* 3. 卡片头部：GitHub图标 + 仓库名 */
+.project-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; /* 图标与仓库名间距 */
+  margin-bottom: 1rem;
+}
+
+.github-icon {
+  width: 20px;
+  height: 20px;
+  object-fit: contain; /* 保持图标比例 */
+}
+
+.repo-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #0969da; /* GitHub链接蓝色，还原原样式 */
+  margin: 0;
+  white-space: nowrap; /* 仓库名不换行 */
+  overflow: hidden; /* 超出部分隐藏 */
+  text-overflow: ellipsis; /* 超出部分显示省略号 */
+}
+
+/* 4. 卡片描述：多行文本省略 */
+.repo-desc {
+  font-size: 0.8rem;
+  color: #6b7280; /* 灰色描述文字 */
+  line-height: 1.4;
+  margin: 0 0 1.5rem 0;
+  flex: 1; /* 占满剩余空间，确保底部元信息对齐 */
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* 最多显示3行 */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* 5. 卡片底部：语言 + 星标 */
+.project-card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.75rem;
+  color: #6b7280;
+}
+
+.repo-language {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.lang-icon {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+}
+
+.repo-stars {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+/* 6. 响应式适配：移动端单列显示 */
+@media (max-width: 768px) {
+  .project-container {
+    justify-content: center; /* 移动端卡片居中 */
+  }
+  .project-card {
+    width: 90%; /* 移动端占满屏幕宽度 */
+    max-width: 320px; /* 限制最大宽度 */
+  }
+}
+
+
 
 
 

@@ -15,7 +15,7 @@
     <!-- 下方简介：参考image格式，包含姓名、时间、身份、研究方向、荣誉 -->
     <div class="faculty-info">
       <h4 class="faculty-name">Chong Feng</h4>
-      <p class="faculty-role">Professor, PhD supervisor</p>
+      <p class="faculty-role">Professor, PhD Supervisor</p>
       <!-- <p class="faculty-research">Research Focus: [研究方向，如Large Language Models, Knowledge Graphs]</p>
       <p class="faculty-honor">[相关荣誉，如XX Project PI, ACL Senior Program Committee]</p> -->
     </div>
@@ -33,11 +33,37 @@
     <!-- 下方简介：参考image格式，包含姓名、时间、身份、研究方向、荣誉 -->
     <div class="faculty-info">
       <h4 class="faculty-name">Ge Shi</h4>
-      <p class="faculty-role">Associate Professor, PhD supervisor</p>
+      <p class="faculty-role">Associate Professor, PhD Supervisor</p>
       <!-- <p class="faculty-research">Research Focus: [研究方向，如Large Language Models, Knowledge Graphs]</p>
       <p class="faculty-honor">[相关荣誉，如XX Project PI, ACL Senior Program Committee]</p> -->
     </div>
   </div>
+
+
+
+  <!-- 第一位Faculty：Chong Feng -->
+<!-- 第三位Faculty：Yuhang Guo（添加链接） -->
+<a href="https://cs.bit.edu.cn/szdw/jsml/sssds/46c68d5f9f064fc6bd6b510a62f7c189.htm" class="faculty-link">
+  <div class="faculty-card">
+    <!-- 头像 -->
+    <img 
+      src="../static/assets/head/guoyuhang.jpg" 
+      alt="Yuhang Guo"  
+      class="faculty-avatar"
+    >
+    <!-- 下方简介 -->
+    <div class="faculty-info">
+      <h4 class="faculty-name">Yuhang Guo</h4>
+      <p class="faculty-role">Lecturer, Master's Supervisor</p>
+      <!-- <p class="faculty-research">Research Focus: [研究方向]</p>
+      <p class="faculty-honor">[相关荣誉]</p> -->
+    </div>
+  </div>
+</a>
+
+
+
+
 
 
   <div class="faculty-card">
