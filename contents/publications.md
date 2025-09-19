@@ -6,7 +6,11 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 -  Silin Li, Yuhang Guo, Jiashu Yao, Zeming Liu, and Haifeng Wang. HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025. [[Paper]](https://arxiv.org/abs/2505.19628){categories: [multilingual]}
 
--  Li Zeng, Zeming Liu, Chong Feng, Heyan Huang, and Yuhang Guo. DocMEdit: Towards Document-Level Model Editing. Findings of the Association for Computational Linguistics, ACL 2025 findings. [[Paper]](https://arxiv.org/abs/2505.19572){categories: [multilingual]}
+-  Li Zeng, Zeming Liu, Chong Feng, Heyan Huang, and Yuhang Guo. DocMEdit: Towards Document-Level Model Editing. Findings of the Association for Computational Linguistics, ACL 2025 Findings. [[Paper]](https://arxiv.org/abs/2505.19572){categories: [multilingual]}
+
+- Yanzhi Tian, Zeming Liu, Zhengyang Liu, and Yuhang Guo. Exploring In-Image Machine Translation with Real-World Background. Findings of the Association for Computational Linguistics, ACL 2025 Findings. [[Paper]](https://arxiv.org/abs/2505.15282){categories: [multilingual]}
+
+- Jiashu Yao, Heyan Huang, Zeming Liu, Haoyu Wen, Wei Su, Boao Qian, and Yuhang Guo. ReFF: Reinforcing Format Faithfulness in Language Models Across Varied Tasks. Proceedings of the AAAI Conference on Artificial Intelligence, AAAI 2025.[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34757){categories: [multilingual]}
 
 
 -  Jianfei Zhao, Feng Zhang, Xin Sun, Chong Feng. Selecting the best rather than ranking correctly: A multi-metrics ranker for summarization. Expert Systems with Applications 276, 127144, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457324003996){categories: [knowledge-graphs]}
@@ -16,15 +20,18 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 -   P Zhao, C Feng, P Li, G Dong, S Wang. INSNER: A generative instruction-based prompting method for boosting performance in few-shot NER. Information Processing & Management 62 (3), 104040, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457324003996){categories: [knowledge-graphs]}
 
--  X Li, B Wang, G Shi, C Feng, J Teng. INSNER: Mitigating the Discrepancy Between Video and Text Temporal Sequences: A Time-Perception Enhanced Video Grounding method for LLM. Proceedings of the 31st International Conference on Computational Linguistics, 2025. [[Paper]](https://aclanthology.org/2025.coling-main.655.pdf){categories: [multimodal]}
+-  X Li, B Wang, G Shi, C Feng, J Teng. Mitigating the Discrepancy Between Video and Text Temporal Sequences: A Time-Perception Enhanced Video Grounding method for LLM. Proceedings of the 31st International Conference on Computational Linguistics,  COLING 2025. [[Paper]](https://aclanthology.org/2025.coling-main.655.pdf){categories: [multimodal]}
 
--  J Sha, M Zhu, C Feng, Y Shang. VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models. Proceedings of the 31st International Conference on Computational Linguistics, 2025. [[Paper]](https://aclanthology.org/2025.coling-main.533/){categories: [multilingual]}
+-  J Sha, M Zhu, C Feng, Y Shang. VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models. Proceedings of the 31st International Conference on Computational Linguistics, COLING 2025. [[Paper]](https://aclanthology.org/2025.coling-main.533/){categories: [multilingual]}
 
 -  X Zhao, C Feng, S Huang, J Wang. (2023). Incorporating Terminology Knowledge into Large Language Model. Machine Translation: 20th China Conference, CCMT 2024, Xiamen, China, 2025. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-2292-4_6){categories: [multilingual]}
 
 - Xiaoming Shi, Zeming Liu, Li Du, Yuxuan Wang, Hongru Wang, Yuhang Guo, Tong Ruan, Jie Xu, Xiaofan Zhang, and Shaoting Zhang. Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges. Findings of the Association for Computational Linguistics, ACL 2024. [[Paper]](https://aclanthology.org/2024.findings-acl.167/){categories: [multilingual]}
 
+- Jiashu Yao, Heyan Huang, Zeming Liu, and Yuhang Guo. Deterministic Reversible Data Augmentation for Neural Machine Translation. Findings of the Association for Computational Linguistics, ACL 2024 Findings. [[Paper]](https://arxiv.org/abs/2406.02517){categories: [multilingual]}
+
 -  Silin Li, Ruoyu Song, Tianwei Lan, Zeming Liu, and Yuhang Guo. TED-EL: A Corpus for Speech Entity Linking. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, LREC-COLING 2024.[[Paper]](https://aclanthology.org/2024.lrec-main.1365/){categories: [multimodal]}
+- Li Zeng, Yingyu Shan, Zeming Liu, Jiashu Yao, and Yuhang Guo. FAME: Towards Factual Multi-Task Model Editing. Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, EMNLP2024.[[Paper]](https://arxiv.org/abs/2410.10859){categories: [knowledge-graphs]}
 
 
 -  S Huang, C Feng, G Shi, Z Li, X Zhao, X Li, X Wang. Learning Domain Specific Sub-layer Latent Variable for Multi-Domain Adaptation Neural Machine Translation. ACM Transactions on Asian and Low-Resource Language Information Processing. 2024 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3661305){categories: [multilingual]}
