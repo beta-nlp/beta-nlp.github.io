@@ -17,6 +17,7 @@
 - 北京市科学技术奖 三等奖, 2014 -->
 
 - First Prize for Technological Progress, Science and Technology Award of China Electronics Society, 2018
+- Second Prize, National Big Data & Computational Intelligence Challenge，2025
 - Best Paper Award, IMLIP, 2025
 - Champion, Tianchi Big Data Competition, 2025
 - Outstanding English Paper， CCMT, 2024

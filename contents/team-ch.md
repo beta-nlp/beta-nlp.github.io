@@ -22,6 +22,7 @@
   </div>
   </a>
 
+<a href="https://cs.bit.edu.cn/szdw/jsml/bssds/75230555abde4774bdea6d3934421aff.htm" class="faculty-link">
    <div class="faculty-card">
     <!-- 头像 -->
     <img 
@@ -37,6 +38,8 @@
       <p class="faculty-honor">[相关荣誉，如XX Project PI, ACL Senior Program Committee]</p> -->
     </div>
   </div>
+  </a>
+
 
   <a href="https://cs.bit.edu.cn/szdw/jsml/sssds/46c68d5f9f064fc6bd6b510a62f7c189.htm" class="faculty-link">
   <div class="faculty-card">
