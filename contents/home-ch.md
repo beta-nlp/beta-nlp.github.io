@@ -5,10 +5,10 @@
 
 
 #### 新闻
-* <strong style="color:red;"><strong>2026年，1篇论文被npj Digital Medicine（Nature Portfolio期刊）录用</strong></strong>
-* <strong style="color:red;"><strong>2026年，4篇论文被ACL 2026录用，其中2篇主会，2篇Findings</strong></strong>
-* <strong style="color:red;"><strong>2026年，1篇论文被CVPR 2026录用</strong></strong>
-* <strong style="color:red;"><strong>2026年，1篇论文被AAAI 2026录用</strong></strong>
+* <strong style="color:red;"><strong>2026年5月，1篇论文被npj Digital Medicine（Nature Portfolio期刊）录用</strong></strong>
+* <strong style="color:red;"><strong>2026年4月，4篇论文被ACL 2026录用，其中2篇主会，2篇Findings</strong></strong>
+* <strong style="color:red;"><strong>2026年2月，1篇论文被CVPR 2026录用</strong></strong>
+* <strong style="color:red;"><strong>2025年11月，1篇论文被AAAI 2026录用</strong></strong>
 * <strong style="color:red;"><strong>2025年8月，博士生黄双宏在第二届国际多语种智能信息处理会议(IMLIP)中获得最佳论文奖</strong></strong> 
 * <strong style="color:red;"><strong>2025年5月，硕士生张开元在天池大数据竞赛“中文电子病历ICD诊断编码评测”任务中，获得第一名</strong></strong> 
 * <strong style="color:red;"><strong>欢送2025届硕士研究生顺利毕业.这是你们不懈努力和毅力的结晶，愿你们在接下来的人生道路上继续保持着对知识的热爱和追求，不断超越自我，创造更加辉煌的成就！</strong></strong> 
