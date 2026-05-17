@@ -8,6 +8,7 @@
 
 <!-- * <strong style="color:red;"><strong>欢送2025届硕士研究生顺利毕业.这是你们不懈努力和毅力的结晶，更是你们智慧和才华的体现。愿你们在接下来的人生道路上继续保持着对知识的热爱和追求，不断超越自我，创造更加辉煌的成就。愿你们的人生充满阳光，事业蒸蒸日上，前程似锦！</strong></strong>  -->
 
+* <strong style="color:red;"><strong>In May 2026, one paper was accepted by IEEE Journal of Biomedical and Health Informatics, a JCR Q1 SCI journal.</strong></strong>
 * <strong style="color:red;"><strong>In May 2026, one paper was accepted by npj Digital Medicine, a Nature Portfolio journal.</strong></strong>
 * <strong style="color:red;"><strong>In April 2026, four papers were accepted by ACL 2026, including two main conference papers and two Findings papers.</strong></strong>
 * <strong style="color:red;"><strong>In February 2026, one paper was accepted by CVPR 2026.</strong></strong>

@@ -5,6 +5,7 @@
 
 
 #### 新闻
+* <strong style="color:red;"><strong>2026年5月，1篇论文被IEEE Journal of Biomedical and Health Informatics（SCI一区期刊）录用</strong></strong>
 * <strong style="color:red;"><strong>2026年5月，1篇论文被npj Digital Medicine（Nature Portfolio期刊）录用</strong></strong>
 * <strong style="color:red;"><strong>2026年4月，4篇论文被ACL 2026录用，其中2篇主会，2篇Findings</strong></strong>
 * <strong style="color:red;"><strong>2026年2月，1篇论文被CVPR 2026录用</strong></strong>

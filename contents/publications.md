@@ -5,6 +5,8 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 - Yan Zhuang, Bo Wang, Chengliang Yin, Junyan Zhang, Fanqing Meng, Jianfei Zhao, Qingyong Su, Xuan Zhao, Xiuxing Li, Ping Hu, Shiyuan Liu, Rilige Wu, Yun Hua, Wei Dong, Bing Wei, Lei Zheng, João Conde, Ge Shi\*, Chong Feng\*, and Kunlun He\*. Clinical Large Language Model Centered on Electronic Medical Records. npj Digital Medicine, 2026 (Nature Portfolio).{categories: [knowledge-graphs]}
 
+- Fanqing Meng, Chong Feng, Ge Shi\*, Xia Liu\*, Bo Wang, Kaiyuan Zhang, and Yan Zhuang. Medical Knowledge-Driven Contrastive Learning for Similar Patient Retrieval. IEEE Journal of Biomedical and Health Informatics, 2026.05.{categories: [knowledge-graphs]}
+
 - Mengxiao Zhu, Haixu Chen, Jiu Sha, Jie Liu, and Ge Shi\*. Beyond Atomic Characters: Glyph-Aware Sub-character Alignment for Low-Resource Multilingual OCR. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, ACL 2026 Main.{categories: [multilingual]}
 
 - Jiawei Li, Yang Gao, Huashan Sun, and Chong Feng. Think Better, Not Longer: Token-Level Marginal Utility for Efficient Reasoning in Large Reasoning Models. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, ACL 2026 Main.{categories: [knowledge-graphs]}
@@ -117,7 +119,6 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 
 <!-- -  L Hongzheng, W Ruojin, F Chong, L Fang. 英语科技论文摘要语步结构语料库构建研究 (Research on Construction of Corpus for Move Structures in Abstracts of English Scientific Research Articles).Proceedings of the 23rd Chinese National Conference on Computational Linguistics.* [[Paper]](https://aclanthology.org/2024.ccl-1.66/){categories: [multilingual]} -->
-
 
 
 
