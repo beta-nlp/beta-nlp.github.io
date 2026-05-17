@@ -22,7 +22,7 @@
   </div>
   </a>
 
-<a href="https://cs.bit.edu.cn/szdw/jsml/bssds/75230555abde4774bdea6d3934421aff.htm" class="faculty-link">
+<a href="https://tinkersxy.github.io/" class="faculty-link">
    <div class="faculty-card">
     <!-- 头像 -->
     <img 
@@ -85,5 +85,4 @@
 
 ### 硕士
 朱函琪, 徐豪杰, 高宇龙, 程光, 张开元, 陈嘉伟, 王守臻, 王启雯, 高铭泽, 林翔, 闫文柏, 韩芳暖
-
 

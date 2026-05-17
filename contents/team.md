@@ -22,12 +22,12 @@
   </div>
     </a>
 
-<a href="https://cs.bit.edu.cn/szdw/jsml/bssds/75230555abde4774bdea6d3934421aff.htm" class="faculty-link">
+<a href="https://tinkersxy.github.io/" class="faculty-link">
   <div class="faculty-card">
     <!-- 头像 -->
     <img 
       src="../static/assets/head/shige.jpg" 
-      alt="Chong Feng" 
+      alt="Ge Shi"
       class="faculty-avatar"
     >
     <!-- 下方简介：参考image格式，包含姓名、时间、身份、研究方向、荣誉 -->
@@ -93,6 +93,4 @@ PeiWen Zhao, Xuan Zhao, Fanqing Meng, Bo Wang, Jianfei Zhao, Shuanghong Huang, Y
 
 ### Master Students
 Hanqi Zhu, Haojie Xu, Yulong Gao, Guang Cheng, Kaiyuan Zhang, Jiawei Chen, Shouzhen Wang, Qiwen Wang, Mingze Gao, Xiang Lin, Wenbai Yan, Fangnuan Han
-
-
 

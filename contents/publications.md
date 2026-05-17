@@ -3,6 +3,20 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 <!-- #### Knowledge Graphs and Information Extraction -->
 <!-- -  Xinyu Zhang, Linmei Hu, Luhao Zhang, Wentao Cheng, Yashen Wang, Ge Shi, Chong Feng, Liqiang Nie. Bi-Tuning with Collaborative Information for Controllable LLM-based Sequential Recommendation. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025. [[Paper]](https://aclanthology.org/2025.acl-long.949/){categories: [knowledge-graphs]} -->
 
+- Yan Zhuang, Bo Wang, Chengliang Yin, Junyan Zhang, Fanqing Meng, Jianfei Zhao, Qingyong Su, Xuan Zhao, Xiuxing Li, Ping Hu, Shiyuan Liu, Rilige Wu, Yun Hua, Wei Dong, Bing Wei, Lei Zheng, João Conde, Ge Shi\*, Chong Feng\*, and Kunlun He\*. Clinical Large Language Model Centered on Electronic Medical Records. npj Digital Medicine, 2026 (Nature Portfolio).{categories: [knowledge-graphs]}
+
+- Mengxiao Zhu, Haixu Chen, Jiu Sha, Jie Liu, and Ge Shi\*. Beyond Atomic Characters: Glyph-Aware Sub-character Alignment for Low-Resource Multilingual OCR. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, ACL 2026 Main.{categories: [multilingual]}
+
+- Jiawei Li, Yang Gao, Huashan Sun, and Chong Feng. Think Better, Not Longer: Token-Level Marginal Utility for Efficient Reasoning in Large Reasoning Models. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, ACL 2026 Main.{categories: [knowledge-graphs]}
+
+- Changsen Yuan, Yanghao Zhou, Chong Feng, and Ge Shi\*. Simulating Crisis Cognition: A Computational Framework for Hypothesis Generation in Crisis Communication. Findings of the Association for Computational Linguistics, ACL 2026 Findings.{categories: [knowledge-graphs]}
+
+- Shuanghong Huang, Jinlei Xu, Youchao Zhou, Yanghao Zhou, Xuan Zhao, Chong Feng\*, and Wenxuan Zhang. Pardon? Evaluating Conversational Repair in Large Audio-Language Models. Findings of the Association for Computational Linguistics, ACL 2026 Findings. [[Paper]](https://arxiv.org/abs/2601.12973){categories: [multimodal]}
+
+- Jianfei Zhao, Feng Zhang, Xin Sun, Chong Feng, and Zhixing Tan. Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2026. [[Paper]](https://arxiv.org/abs/2511.20032){categories: [multimodal]}
+
+- Tuo Wang, Meng Jian, Ge Shi\*, Lifang Wu, and Yashen Wang. MSR-Rec: Multi-Step Reasoning-Enhanced LLM for Sequential Recommendation. Proceedings of the AAAI Conference on Artificial Intelligence, AAAI 2026. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38620){categories: [knowledge-graphs]}
+
 
 -  Silin Li, Yuhang Guo, Jiashu Yao, Zeming Liu, and Haifeng Wang. HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025. [[Paper]](https://arxiv.org/abs/2505.19628){categories: [multilingual]}
 
@@ -103,7 +117,6 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 
 <!-- -  L Hongzheng, W Ruojin, F Chong, L Fang. 英语科技论文摘要语步结构语料库构建研究 (Research on Construction of Corpus for Move Structures in Abstracts of English Scientific Research Articles).Proceedings of the 23rd Chinese National Conference on Computational Linguistics.* [[Paper]](https://aclanthology.org/2024.ccl-1.66/){categories: [multilingual]} -->
-
 
 
 
