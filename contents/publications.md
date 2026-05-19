@@ -76,8 +76,6 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 - Jiu Sha, Mengxiao Zhu, Chong Feng, and Yanyan Shang. VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models. Proceedings of the 31st International Conference on Computational Linguistics, COLING 2025. (CCF B) [[Paper]](https://aclanthology.org/2025.coling-main.533/){categories: [multilingual]}
 
-- Xuan Zhao, Chong Feng, Shuanghong Huang, and Jing Wang. Incorporating Terminology Knowledge into Large Language Model. Machine Translation: 20th China Conference, CCMT 2024, Xiamen, China, 2025. (Domestic Conference) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-2292-4_6){categories: [multilingual]}
-
 - Linmei Hu, Dong Wang, Yinan Pan, Jiahui Yu, Jiajun Shao, Chong Feng, and Liqiang Nie. NovaChart: A Large-scale Dataset Towards Chart Understanding and Generation of Multimodal Large Language Models. Proceedings of the 32nd ACM International Conference on Multimedia, ACM MM 2024. (CCF A){categories: [multimodal]}
 
 - Jiawei Li, Yizhe Yang, Yu Bai, Xiaofeng Zhou, Yinghao Li, Huashan Sun, Yuhang Liu, Xingpeng Si, Yuhao Ye, Yixiao Wu, Yiguan Lin, Bin Xu, Bowen Ren, Chong Feng, Yang Gao, and Heyan Huang. Fundamental Capabilities of Large Language Models and Their Applications in Domain Scenarios: A Survey. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics, ACL 2024. (CCF A) [[Paper]](https://aclanthology.org/2024.acl-long.599/){categories: [knowledge-graphs]}
@@ -100,14 +98,6 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 - Huan Li, Rui Wang, Ge Shi, Xin Lv, Lei Lei, Chong Feng, Fang Liu, Jie Lin, Yuhui Mei, and Lu Xu. Raamove: A Corpus for Analyzing Moves in Research Article Abstracts. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, LREC-COLING 2024. (CCF B){categories: [multilingual]}
 
-- Shuanghong Huang, Chong Feng, Ge Shi, Zhaohui Li, Xuan Zhao, Xiang Li, and Xiaoyan Wang. Learning Domain Specific Sub-layer Latent Variable for Multi-Domain Adaptation Neural Machine Translation. ACM Transactions on Asian and Low-Resource Language Information Processing, 2024. (CCF C) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3661305){categories: [multilingual]}
-
-- Kaiyuan Zhang, Bo Wang, Changsen Yuan, Chong Feng, and Ge Shi. Reliable Typical Case Diagnosis via Optimized Retrieval-Augmented Generation Techniques. China Health Information Processing Conference, 214-225, 2024. (Domestic Conference) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-4298-4_19){categories: [knowledge-graphs]}
-
-- Jianfei Zhao, Tian Chen, Xuan Wang, and Chong Feng. Information Extraction of Unlabeled Patent Based on Knowledge Self-Distillation of Large Language Model. Data Analysis and Knowledge Discovery, 2024, 8(8-9): 133-143. (Chinese Journal) [[Paper]](https://manu44.magtech.com.cn/Jwk_infotech_wk3/CN/10.11925/infotech.2096-3467.2023.1246){categories: [knowledge-graphs]}
-
-- Mengxiao Zhu and Chong Feng. 面向心理健康咨询的藏语数据集及大语言模型构建. 23rd Chinese National Conference on Computational Linguistics, CCL 2024, 326-339, 2024. (Domestic Conference) [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WSqhHRYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=WSqhHRYAAAAJ:tS2w5q8j5-wC){categories: [multilingual]}
-
 - Heyan Huang, Xiao Liu, Ge Shi, and Qian Liu. Event Extraction with Dynamic Prefix Tuning and Relevance Retrieval. IEEE Transactions on Knowledge and Data Engineering 35 (10), 9946-9958, 2023. (CCF A, SCI Q1) [[Paper]](https://ieeexplore.ieee.org/document/10100906){categories: [knowledge-graphs]}
 
 - Ge Shi, Yuanyuan Su, Yanan Ma, and Meng Zhou. A Hybrid Detection and Generation Framework with Separate Encoders for Event Extraction. Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, EACL 2023. (CCF B){categories: [knowledge-graphs]}
@@ -123,10 +113,6 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 - Ge Shi, Sinuo Deng, Bo Wang, Chong Feng, Yan Zhuang, and Xiaomei Wang. One for All: A Unified Generative Framework for Image Emotion Classification. IEEE Transactions on Circuits and Systems for Video Technology 34 (8), 7057-7068, 2023. (CCF B, SCI Q1) [[Paper]](https://doi.org/10.1109/TCSVT.2023.3341840){categories: [multimodal]}
 
 - Bo Wang, Heyan Huang, Xiaochi Wei, Ge Shi, Xiao Liu, Chong Feng, Tao Zhou, Shuo Wang, and Dong Yin. Boosting Event Extraction with Denoised Structure-to-Text Augmentation. Findings of the Association for Computational Linguistics, ACL 2023 Findings. (CCF A) [[Paper]](https://arxiv.org/pdf/2305.09598){categories: [knowledge-graphs]}
-
-- Yuting Xu, Chong Feng, Jing Huang, and Xinmu Qi. Retrieval-Augmented Document-Level Event Extraction with Cross-Attention Fusion. Chinese National Conference on Social Media Processing, 218-229, 2023. (Domestic Conference) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-7596-9_16){categories: [knowledge-graphs]}
-
-- Bokai Guo, Chong Feng, Fang Liu, Xinyan Li, and Xiaomei Wang. Joint Contrastive Learning for Factual Consistency Evaluation of Cross-lingual Abstract Summarization. China Conference on Machine Translation, 116-127, 2023. (Domestic Conference) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-7894-6_11){categories: [multilingual]}
 
 - Xiao Liu, Heyan Huang, Ge Shi, and Bo Wang. Dynamic Prefix-Tuning for Generative Template-based Event Extraction. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, ACL 2022. (CCF A) [[Paper]](https://aclanthology.org/2022.acl-long.358/){categories: [knowledge-graphs]}
 
@@ -171,7 +157,6 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 
 <!-- -  L Hongzheng, W Ruojin, F Chong, L Fang. 英语科技论文摘要语步结构语料库构建研究 (Research on Construction of Corpus for Move Structures in Abstracts of English Scientific Research Articles).Proceedings of the 23rd Chinese National Conference on Computational Linguistics.* [[Paper]](https://aclanthology.org/2024.ccl-1.66/){categories: [multilingual]} -->
-
 
 
 
