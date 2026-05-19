@@ -1,110 +1,162 @@
 For full paper list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=WSqhHRYAAAAJ&hl=zh-CN&oi=ao).
 
 <!-- #### Knowledge Graphs and Information Extraction -->
-<!-- -  Xinyu Zhang, Linmei Hu, Luhao Zhang, Wentao Cheng, Yashen Wang, Ge Shi, Chong Feng, Liqiang Nie. Bi-Tuning with Collaborative Information for Controllable LLM-based Sequential Recommendation. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025. [[Paper]](https://aclanthology.org/2025.acl-long.949/){categories: [knowledge-graphs]} -->
 
-- Yan Zhuang, Bo Wang, Chengliang Yin, Junyan Zhang, Fanqing Meng, Jianfei Zhao, Qingyong Su, Xuan Zhao, Xiuxing Li, Ping Hu, Shiyuan Liu, Rilige Wu, Yun Hua, Wei Dong, Bing Wei, Lei Zheng, João Conde, Ge Shi\*, Chong Feng\*, and Kunlun He\*. Clinical Large Language Model Centered on Electronic Medical Records. npj Digital Medicine, 2026 (Nature Portfolio).{categories: [knowledge-graphs]}
+- Yan Zhuang, Bo Wang, Chengliang Yin, Junyan Zhang, Fanqing Meng, Jianfei Zhao, Qingyong Su, Xuan Zhao, Xiuxing Li, Ping Hu, Shiyuan Liu, Rilige Wu, Yun Hua, Wei Dong, Bing Wei, Lei Zheng, João Conde, Ge Shi\*, Chong Feng\*, and Kunlun He\*. Clinical Large Language Model Centered on Electronic Medical Records. npj Digital Medicine, 2026 (Nature Portfolio). (SCI Q1){categories: [knowledge-graphs]}
 
-- Fanqing Meng, Chong Feng, Ge Shi\*, Xia Liu\*, Bo Wang, Kaiyuan Zhang, and Yan Zhuang. Medical Knowledge-Driven Contrastive Learning for Similar Patient Retrieval. IEEE Journal of Biomedical and Health Informatics, 2026.05. [[Paper]](https://doi.org/10.1109/JBHI.2026.3690515){categories: [knowledge-graphs]}
+- Fanqing Meng, Chong Feng, Ge Shi\*, Xia Liu\*, Bo Wang, Kaiyuan Zhang, and Yan Zhuang. Medical Knowledge-Driven Contrastive Learning for Similar Patient Retrieval. IEEE Journal of Biomedical and Health Informatics, 2026.05. (SCI Q1) [[Paper]](https://doi.org/10.1109/JBHI.2026.3690515){categories: [knowledge-graphs]}
 
-- Mengxiao Zhu, Haixu Chen, Jiu Sha, Jie Liu, and Ge Shi\*. Beyond Atomic Characters: Glyph-Aware Sub-character Alignment for Low-Resource Multilingual OCR. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, ACL 2026 Main.{categories: [multilingual]}
+- Tuo Wang, Meng Jian, Ge Shi\*, Lifang Wu, and Yashen Wang. MSR-Rec: Multi-Step Reasoning-Enhanced LLM for Sequential Recommendation. Proceedings of the AAAI Conference on Artificial Intelligence, AAAI 2026. (CCF A) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38620){categories: [knowledge-graphs]}
 
-- Jiawei Li, Yang Gao, Huashan Sun, and Chong Feng. Think Better, Not Longer: Token-Level Marginal Utility for Efficient Reasoning in Large Reasoning Models. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, ACL 2026 Main.{categories: [knowledge-graphs]}
+- Jiashu Yao, Heyan Huang, Shuangcheng Zeng, Chong Luo, Wenqiang You, Jie Tang, Qian Liu, Yuhang Guo, and Yuchen Kang. Incorporating Self-Rewriting into Large Language Model Reasoning Reinforcement. Proceedings of the AAAI Conference on Artificial Intelligence, AAAI 2026. (CCF A){categories: [knowledge-graphs]}
 
-- Changsen Yuan, Yanghao Zhou, Chong Feng, and Ge Shi\*. Simulating Crisis Cognition: A Computational Framework for Hypothesis Generation in Crisis Communication. Findings of the Association for Computational Linguistics, ACL 2026 Findings.{categories: [knowledge-graphs]}
+- Mengxiao Zhu, Haixu Chen, Jiu Sha, Jie Liu, and Ge Shi\*. Beyond Atomic Characters: Glyph-Aware Sub-character Alignment for Low-Resource Multilingual OCR. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, ACL 2026 Main. (CCF A){categories: [multilingual]}
 
-- Shuanghong Huang, Jinlei Xu, Youchao Zhou, Yanghao Zhou, Xuan Zhao, Chong Feng\*, and Wenxuan Zhang. Pardon? Evaluating Conversational Repair in Large Audio-Language Models. Findings of the Association for Computational Linguistics, ACL 2026 Findings. [[Paper]](https://arxiv.org/abs/2601.12973){categories: [multimodal]}
+- Jiawei Li, Yang Gao, Huashan Sun, and Chong Feng. Think Better, Not Longer: Token-Level Marginal Utility for Efficient Reasoning in Large Reasoning Models. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, ACL 2026 Main. (CCF A){categories: [knowledge-graphs]}
 
-- Jianfei Zhao, Feng Zhang, Xin Sun, Chong Feng, and Zhixing Tan. Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2026. [[Paper]](https://arxiv.org/abs/2511.20032){categories: [multimodal]}
+- Changsen Yuan, Yanghao Zhou, Chong Feng, and Ge Shi\*. Simulating Crisis Cognition: A Computational Framework for Hypothesis Generation in Crisis Communication. Findings of the Association for Computational Linguistics, ACL 2026 Findings. (CCF A){categories: [knowledge-graphs]}
 
-- Tuo Wang, Meng Jian, Ge Shi\*, Lifang Wu, and Yashen Wang. MSR-Rec: Multi-Step Reasoning-Enhanced LLM for Sequential Recommendation. Proceedings of the AAAI Conference on Artificial Intelligence, AAAI 2026. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38620){categories: [knowledge-graphs]}
+- Shuanghong Huang, Jinlei Xu, Youchao Zhou, Yanghao Zhou, Xuan Zhao, Chong Feng\*, and Wenxuan Zhang. Pardon? Evaluating Conversational Repair in Large Audio-Language Models. Findings of the Association for Computational Linguistics, ACL 2026 Findings. (CCF A) [[Paper]](https://arxiv.org/abs/2601.12973){categories: [multimodal]}
 
+- Jianfei Zhao, Feng Zhang, Xin Sun, Chong Feng, and Zhixing Tan. Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2026. (CCF A) [[Paper]](https://arxiv.org/abs/2511.20032){categories: [multimodal]}
 
--  Silin Li, Yuhang Guo, Jiashu Yao, Zeming Liu, and Haifeng Wang. HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025. [[Paper]](https://arxiv.org/abs/2505.19628){categories: [multilingual]}
+- Meng Jian, Ruoyang Li, Tuo Wang, Ge Shi, and Lifang Wu. Large Multimodal Model-based Intent Prompting Learning for Multimedia Recommendation. Information Fusion 127, 2026. (SCI Q1){categories: [multimodal]}
 
--  Li Zeng, Zeming Liu, Chong Feng, Heyan Huang, and Yuhang Guo. DocMEdit: Towards Document-Level Model Editing. Findings of the Association for Computational Linguistics, ACL 2025 Findings. [[Paper]](https://arxiv.org/abs/2505.19572){categories: [multilingual]}
+- Meng Jian, Ruoyang Li, Yuesong Bai, and Ge Shi. Enhancing Recommendations With Knowledge-Guided Interest Contrast. IEEE Transactions on Big Data 12 (1), 200-211, 2026. (SCI Q1){categories: [knowledge-graphs]}
 
-- Yanzhi Tian, Zeming Liu, Zhengyang Liu, and Yuhang Guo. Exploring In-Image Machine Translation with Real-World Background. Findings of the Association for Computational Linguistics, ACL 2025 Findings. [[Paper]](https://arxiv.org/abs/2505.15282){categories: [multilingual]}
+- Peiwen Zhao, Chong Feng, Yulong Li, Guang Dong, Shuai Wang, and Xiaohui Cai. SAG: A Session-Augmented Heterogeneous Graph-based model for Named Entity Recognition in query. Computers in Industry 178, 104477, 2026. (SCI Q1){categories: [knowledge-graphs]}
 
-- Jiashu Yao, Heyan Huang, Zeming Liu, Haoyu Wen, Wei Su, Boao Qian, and Yuhang Guo. ReFF: Reinforcing Format Faithfulness in Language Models Across Varied Tasks. Proceedings of the AAAI Conference on Artificial Intelligence, AAAI 2025.[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34757){categories: [multilingual]}
+- Jie Liu, Silin Li, Zeming Liu, Zihan Cheng, Yuhang Guo, Yanzhi Guo, Yashen Wang, and Heyan Wang. Towards Multi-language Repository-level Code Generation: From-scratch to Guided Tasks. Neurocomputing, 133204, 2026. (SCI Q1){categories: [multilingual]}
 
+- Youpeng Hu, Haoran Lin, Heyan Huang, Yuhang Guo, Fang Wu, Jun Long, and Junwei Han. Unsupervised Logical Anomaly Detection in Industry: Mamba Optimized by Nested Pyramid Fusion and Parameter-shared State Space Enhancement. Neurocomputing, 132824, 2026. (SCI Q1){categories: [multimodal]}
 
--  Jianfei Zhao, Feng Zhang, Xin Sun, Chong Feng. Selecting the best rather than ranking correctly: A multi-metrics ranker for summarization. Expert Systems with Applications 276, 127144, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457324003996){categories: [knowledge-graphs]}
+- Hagos Gebremeskel, Chong Feng, Abrham M. Abera, and Girmay N. Binegde. TigCLaF: A Cross-lingual Large Language Model Framework for Sentiment-aware Text Classification in Low-resource Tigrigna. Scientific Reports, 2026. (SCI Q1){categories: [multilingual]}
 
+- Jiawei Li, Yang Gao, Yizhe Yang, Yu Bai, Xiaofeng Zhou, Yinghao Li, Huashan Sun, Yuhang Liu, Xingpeng Si, Yuhao Ye, Yixiao Wu, Yiguan Lin, Bin Xu, Bowen Ren, Chong Feng, and Heyan Huang. Fundamental Capabilities and Applications of Large Language Models: A Survey. ACM Computing Surveys 58 (2), 1-42, 2025. (CCF A, SCI Q1) [[Paper]](https://dl.acm.org/doi/10.1145/3735632){categories: [knowledge-graphs]}
 
-- J Zhao, X Sun, C Feng. Introducing bidirectional attention for autoregressive models in abstractive summarization. Information Sciences 689, 121497, 2025.[[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025524014117?via%3Dihub)[[Code]](https://github.com/beta-nlp/GAR){categories: [knowledge-graphs]}
+- Meng Jian, Tuo Wang, Zhenyu Xia, Ge Shi, Richang Hong, and Lifang Wu. Geometric-Augmented Self-Distillation for Graph-Based Recommendation. ACM Transactions on Information Systems 43 (4), 1-23, 2025. (CCF A, SCI Q1){categories: [knowledge-graphs]}
 
--   P Zhao, C Feng, P Li, G Dong, S Wang. INSNER: A generative instruction-based prompting method for boosting performance in few-shot NER. Information Processing & Management 62 (3), 104040, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457324003996){categories: [knowledge-graphs]}
+- Changsen Yuan, Yanghao Zhou, Chao Guo, Dekun Han, Ge Shi, and Wenhui Wang. Seeing with Words: Interpretable Language-Guided Drone Geo-localization via LLM-Enriched Semantic Attribute Alignment. IEEE Transactions on Multimedia, 2025. (CCF B, SCI Q1){categories: [multimodal]}
 
--  X Li, B Wang, G Shi, C Feng, J Teng. Mitigating the Discrepancy Between Video and Text Temporal Sequences: A Time-Perception Enhanced Video Grounding method for LLM. Proceedings of the 31st International Conference on Computational Linguistics,  COLING 2025. [[Paper]](https://aclanthology.org/2025.coling-main.655.pdf){categories: [multimodal]}
+- Qingyong Su, Chong Feng, Ge Shi, Bo Wang, and Yan Zhuang. Enhancing Discriminative Ability in Multimodal LLMs: A Contrastive Learning Approach for CT Report Generation. Information Fusion 123, 103240, 2025. (SCI Q1) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003136){categories: [multimodal]}
 
--  J Sha, M Zhu, C Feng, Y Shang. VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models. Proceedings of the 31st International Conference on Computational Linguistics, COLING 2025. [[Paper]](https://aclanthology.org/2025.coling-main.533/){categories: [multilingual]}
+- Yanzhi Tian, Zeming Liu, Zhengyang Liu, Chong Feng, Xiang Li, Heyan Huang, and Yuhang Guo. PRIM: Towards Practical In-Image Multilingual Machine Translation. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, EMNLP 2025. (CCF B){categories: [multilingual]}
 
--  X Zhao, C Feng, S Huang, J Wang. (2023). Incorporating Terminology Knowledge into Large Language Model. Machine Translation: 20th China Conference, CCMT 2024, Xiamen, China, 2025. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-2292-4_6){categories: [multilingual]}
+- Zihan Cheng, Haoran Wang, Zeming Liu, Yuhang Guo, Yanzhi Guo, Yashen Wang, and Heyan Wang. ToolSpectrum: Towards Personalized Tool Utilization for Large Language Models. Findings of the Association for Computational Linguistics, ACL 2025 Findings. (CCF A){categories: [knowledge-graphs]}
 
-- Xiaoming Shi, Zeming Liu, Li Du, Yuxuan Wang, Hongru Wang, Yuhang Guo, Tong Ruan, Jie Xu, Xiaofan Zhang, and Shaoting Zhang. Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges. Findings of the Association for Computational Linguistics, ACL 2024. [[Paper]](https://aclanthology.org/2024.findings-acl.167/){categories: [multilingual]}
+- Yuning Lu, Qian Yu, Haoran Wang, Zeming Liu, Wei Su, Yuhang Liu, Yuhang Guo, Mingxu Liang, Yashen Wang, and Heyan Wang. TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments. Findings of the Association for Computational Linguistics, ACL 2025 Findings. (CCF A){categories: [knowledge-graphs]}
 
-- Jiashu Yao, Heyan Huang, Zeming Liu, and Yuhang Guo. Deterministic Reversible Data Augmentation for Neural Machine Translation. Findings of the Association for Computational Linguistics, ACL 2024 Findings. [[Paper]](https://arxiv.org/abs/2406.02517){categories: [multilingual]}
+- Xinyu Zhang, Linmei Hu, Luhao Zhang, Wentao Cheng, Yashen Wang, Ge Shi, Chong Feng, and Liqiang Nie. Bi-Tuning with Collaborative Information for Controllable LLM-based Sequential Recommendation. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025. (CCF A) [[Paper]](https://aclanthology.org/2025.acl-long.949/){categories: [knowledge-graphs]}
 
--  Silin Li, Ruoyu Song, Tianwei Lan, Zeming Liu, and Yuhang Guo. TED-EL: A Corpus for Speech Entity Linking. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, LREC-COLING 2024.[[Paper]](https://aclanthology.org/2024.lrec-main.1365/){categories: [multimodal]}
-- Li Zeng, Yingyu Shan, Zeming Liu, Jiashu Yao, and Yuhang Guo. FAME: Towards Factual Multi-Task Model Editing. Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, EMNLP2024.[[Paper]](https://arxiv.org/abs/2410.10859){categories: [knowledge-graphs]}
+- Silin Li, Yuhang Guo, Jiashu Yao, Zeming Liu, and Haifeng Wang. HomeBench: Evaluating LLMs in Smart Homes with Valid and Invalid Instructions Across Single and Multiple Devices. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025. (CCF A) [[Paper]](https://arxiv.org/abs/2505.19628){categories: [multilingual]}
 
+- Li Zeng, Zeming Liu, Chong Feng, Heyan Huang, and Yuhang Guo. DocMEdit: Towards Document-Level Model Editing. Findings of the Association for Computational Linguistics, ACL 2025 Findings. (CCF A) [[Paper]](https://arxiv.org/abs/2505.19572){categories: [multilingual]}
 
--  S Huang, C Feng, G Shi, Z Li, X Zhao, X Li, X Wang. Learning Domain Specific Sub-layer Latent Variable for Multi-Domain Adaptation Neural Machine Translation. ACM Transactions on Asian and Low-Resource Language Information Processing. 2024 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3661305){categories: [multilingual]}
+- Yanzhi Tian, Zeming Liu, Zhengyang Liu, and Yuhang Guo. Exploring In-Image Machine Translation with Real-World Background. Findings of the Association for Computational Linguistics, ACL 2025 Findings. (CCF A) [[Paper]](https://arxiv.org/abs/2505.15282){categories: [multilingual]}
 
--  K Zhang, B Wang, C Yuan, C Feng, G Shi. Reliable Typical Case Diagnosis via Optimized Retrieval-Augmented Generation Techniques. China Health Information Processing Conference, 214-225, 2024. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-4298-4_19){categories: [knowledge-graphs]}
+- Jiashu Yao, Heyan Huang, Zeming Liu, Haoyu Wen, Wei Su, Boao Qian, and Yuhang Guo. ReFF: Reinforcing Format Faithfulness in Language Models Across Varied Tasks. Proceedings of the AAAI Conference on Artificial Intelligence, AAAI 2025. (CCF A) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34757){categories: [multilingual]}
 
+- Qingyong Su, Chong Feng, Bo Wang, Ge Shi, and Yan Zhuang. ClearView: A Quality-aware Cross-modal Alignment Framework for CT Report Generation. Proceedings of the 2025 International Conference on Multimedia Retrieval, ICMR 2025. (CCF B){categories: [multimodal]}
 
+- Jianfei Zhao, Feng Zhang, Xin Sun, and Chong Feng. Selecting the Best Rather than Ranking Correctly: A Multi-metrics Ranker for Summarization. Expert Systems with Applications 276, 127144, 2025. (SCI Q1) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417425007663){categories: [knowledge-graphs]}
 
--  J Zhao, T Chen, X Wang, C Feng. Information Extraction of Unlabeled Patent Based on Knowledge Self-Distillation of Large Language Model. Data Analysis and Knowledge Discovery, 2024, 8(8-9): 133-143.[[Paper]](https://manu44.magtech.com.cn/Jwk_infotech_wk3/CN/10.11925/infotech.2096-3467.2023.1246){categories: [knowledge-graphs]}
+- Jianfei Zhao, Xin Sun, and Chong Feng. Introducing Bidirectional Attention for Autoregressive Models in Abstractive Summarization. Information Sciences 689, 121497, 2025. (SCI Q1) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025524014117?via%3Dihub) [[Code]](https://github.com/beta-nlp/GAR){categories: [knowledge-graphs]}
 
--  M Zhu, C Feng. 面向心理健康咨询的藏语数据集及大语言模型构建. 23rd Chinese National Conference on Computational Linguistics, CCL 2024, 326-339, 2024. [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WSqhHRYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=WSqhHRYAAAAJ:tS2w5q8j5-wC){categories: [multilingual]}
+- Peiwen Zhao, Chong Feng, Peng Li, Guang Dong, and Shuai Wang. INSNER: A Generative Instruction-based Prompting Method for Boosting Performance in Few-shot NER. Information Processing & Management 62 (3), 104040, 2025. (SCI Q1) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457324003996){categories: [knowledge-graphs]}
 
+- Zhen Xi, Ge Shi, Hao Sun, Bin Zhang, Shaohua Li, and Lifang Wu. EIKA: Explicit & Implicit Knowledge-Augmented Network for Entity-aware Sports Video Captioning. Expert Systems with Applications 274, 126906, 2025. (SCI Q1){categories: [multimodal]}
 
+- Zhen Xi, Ge Shi, Xiang Li, Jianzhe Yan, Zhen Li, Lifang Wu, Zhenguang Liu, and Lin Wang. A Simple Yet Effective Knowledge Guided Method for Entity-aware Video Captioning on a Basketball Benchmark. Neurocomputing 619, 129177, 2025. (SCI Q1){categories: [multimodal]}
 
--  B Wang, H Huang, Y Cao, J Ying, W Tang, C Feng. QRMeM: Unleash the Length Limitation through Question then Reflection Memory Mechanism. EMNLP 2024. [[Paper]](https://arxiv.org/abs/2406.13167){categories: [knowledge-graphs]}
+- Ahmed A. Yusuf, Chong Feng, Xianling Mao, Yusra Haruna, Xiang Li, and R. Ally Duma. Graph-enhanced Visual Representations and Question-guided Dual Attention for Visual Question Answering. Neurocomputing 614, 128850, 2025. (SCI Q1){categories: [multimodal]}
 
--  Bao Chen, Yuanjie Wang, Zeming Liu, and Yuhang Guo. Automatic Evaluate Dialogue Appropriateness by Using Dialogue Act. EMNLP 2023. [[Paper]](https://aclanthology.org/2023.findings-emnlp.492/){categories: [multilingual]}
+- Tianwei Lan, Yuhang Guo, Miao Deng, Jiaqi Wang, Wenjing Wang, and Chong Feng. Controllable Timbre Cloning and Style Replication with Reference Speech Examples for Multimodal Human-computer Interaction. Neurocomputing, 132529, 2025. (SCI Q1){categories: [multimodal]}
 
--  Mengge Liu, Wen Zhang, Xiang Li, Jian Luan, Bin Wang, Yuhang Guo, and Shuoying Chen. Rethinking the Reasonability of the Test Set for Simultaneous Machine Translation. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2023.[[Paper]](https://ieeexplore.ieee.org/abstract/document/10095739/){categories: [multilingual]}
+- Xiang Li, Bo Wang, Ge Shi, Chong Feng, and Jie Teng. Mitigating the Discrepancy Between Video and Text Temporal Sequences: A Time-Perception Enhanced Video Grounding Method for LLM. Proceedings of the 31st International Conference on Computational Linguistics, COLING 2025. (CCF B) [[Paper]](https://aclanthology.org/2025.coling-main.655.pdf){categories: [multimodal]}
 
+- Jiu Sha, Mengxiao Zhu, Chong Feng, and Yanyan Shang. VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models. Proceedings of the 31st International Conference on Computational Linguistics, COLING 2025. (CCF B) [[Paper]](https://aclanthology.org/2025.coling-main.533/){categories: [multilingual]}
 
+- Xuan Zhao, Chong Feng, Shuanghong Huang, and Jing Wang. Incorporating Terminology Knowledge into Large Language Model. Machine Translation: 20th China Conference, CCMT 2024, Xiamen, China, 2025. (Domestic Conference) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-2292-4_6){categories: [multilingual]}
 
+- Linmei Hu, Dong Wang, Yinan Pan, Jiahui Yu, Jiajun Shao, Chong Feng, and Liqiang Nie. NovaChart: A Large-scale Dataset Towards Chart Understanding and Generation of Multimodal Large Language Models. Proceedings of the 32nd ACM International Conference on Multimedia, ACM MM 2024. (CCF A){categories: [multimodal]}
 
+- Jiawei Li, Yizhe Yang, Yu Bai, Xiaofeng Zhou, Yinghao Li, Huashan Sun, Yuhang Liu, Xingpeng Si, Yuhao Ye, Yixiao Wu, Yiguan Lin, Bin Xu, Bowen Ren, Chong Feng, Yang Gao, and Heyan Huang. Fundamental Capabilities of Large Language Models and Their Applications in Domain Scenarios: A Survey. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics, ACL 2024. (CCF A) [[Paper]](https://aclanthology.org/2024.acl-long.599/){categories: [knowledge-graphs]}
 
--  Ge Shi, Sinuo Deng, Bo Wang, Chong Feng, Yan Zhuang, Xiaomei Wang. One for all: A unified generative framework for image emotion classification. IEEE Transactions on Circuits and Systems for Video Technology 34 (8), 7057-7068, 2023. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457324003996){categories: [multimodal]}
+- Xiaoming Shi, Zeming Liu, Li Du, Yuxuan Wang, Hongru Wang, Yuhang Guo, Tong Ruan, Jie Xu, Xiaofan Zhang, and Shaoting Zhang. Medical Dialogue System: A Survey of Categories, Methods, Evaluation and Challenges. Findings of the Association for Computational Linguistics, ACL 2024 Findings. (CCF A) [[Paper]](https://aclanthology.org/2024.findings-acl.167/){categories: [multilingual]}
 
+- Jiashu Yao, Heyan Huang, Zeming Liu, and Yuhang Guo. Deterministic Reversible Data Augmentation for Neural Machine Translation. Findings of the Association for Computational Linguistics, ACL 2024 Findings. (CCF A) [[Paper]](https://arxiv.org/abs/2406.02517){categories: [multilingual]}
 
--  Yuting Xu, Chong Feng, Jing Huang, Xinmu Qi. Retrieval-Augmented Document-Level. Social Media Processing: 11th Chinese National Conference, SMP 2023, 2023. [[Paper]](https://books.google.com.hk/books?hl=zh-CN&lr=&id=ZWHjEAAAQBAJ&oi=fnd&pg=PA218&ots=TCg-FKmCM7&sig=mBHjhjASuohouAisUyE5euvKu2w&redir_esc=y#v=onepage&q&f=false){categories: [knowledge-graphs]}
+- Zhen Wang, Zhenyu Li, Xiaopeng Lang, Yuan Zheng, Meng Tian, Lifang Wu, Lin Wang, and Chen Chen. Knowledge Augmented Relation Inference for Group Activity Recognition. IEEE Transactions on Circuits and Systems for Video Technology 34 (11), 2024. (CCF B, SCI Q1){categories: [multimodal]}
 
--  Bokai Guo, Chong Feng, Fang Liu, Xinyan Li, Xiaomei Wang. Joint contrastive learning for factual consistency evaluation of cross-lingual abstract summarization. China Conference on Machine Translation, 2023.* [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-7894-6_11){categories: [multilingual]}
+- Meng Jian, Yuesong Bai, Xian Fu, Jiajie Guo, Ge Shi, and Lifang Wu. Counterfactual Graph Convolutional Learning for Personalized Recommendation. ACM Transactions on Intelligent Systems and Technology 15 (4), 1-20, 2024. (CCF B, SCI Q1){categories: [knowledge-graphs]}
 
+- Lifang Wu, Meng Tian, Yihui Xiang, Kang Gu, and Ge Shi. Learning Label Semantics for Weakly Supervised Group Activity Recognition. IEEE Transactions on Multimedia 26, 6386-6397, 2024. (CCF B, SCI Q1){categories: [multimodal]}
 
+- Silin Li, Ruoyu Song, Tianwei Lan, Zeming Liu, and Yuhang Guo. TED-EL: A Corpus for Speech Entity Linking. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, LREC-COLING 2024. (CCF B) [[Paper]](https://aclanthology.org/2024.lrec-main.1365/){categories: [multimodal]}
 
+- Li Zeng, Yingyu Shan, Zeming Liu, Jiashu Yao, and Yuhang Guo. FAME: Towards Factual Multi-Task Model Editing. Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, EMNLP 2024. (CCF B) [[Paper]](https://arxiv.org/abs/2410.10859){categories: [knowledge-graphs]}
 
--   B Wang, H Huang, X Wei, G Shi, X Liu, C Feng, T Zhou, S Wang, D Yin. Boosting Event Extraction with Denoised Structure-to-Text Augmentation. ACL Findings, 2023. [[Paper]](https://arxiv.org/pdf/2305.09598){categories: [knowledge-graphs]}
+- Bo Wang, Heyan Huang, Yixin Cao, Jiadong Ying, Wang Tang, and Chong Feng. QRMeM: Unleash the Length Limitation through Question then Reflection Memory Mechanism. Findings of the Association for Computational Linguistics, EMNLP 2024. (CCF B) [[Paper]](https://arxiv.org/abs/2406.13167){categories: [knowledge-graphs]}
 
+- Huan Li, Rui Wang, Ge Shi, Xin Lv, Lei Lei, Chong Feng, Fang Liu, Jie Lin, Yuhui Mei, and Lu Xu. Raamove: A Corpus for Analyzing Moves in Research Article Abstracts. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, LREC-COLING 2024. (CCF B){categories: [multilingual]}
 
--  Y Xu, C Feng, B Wang, J Huang, X Qi. Retrieval-Augmented Document-Level Event Extraction with Cross-Attention Fusion. Chinese National Conference on Social Media Processing, 218-229, 2023. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-7596-9_16){categories: [knowledge-graphs]}
+- Shuanghong Huang, Chong Feng, Ge Shi, Zhaohui Li, Xuan Zhao, Xiang Li, and Xiaoyan Wang. Learning Domain Specific Sub-layer Latent Variable for Multi-Domain Adaptation Neural Machine Translation. ACM Transactions on Asian and Low-Resource Language Information Processing, 2024. (CCF C) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3661305){categories: [multilingual]}
 
+- Kaiyuan Zhang, Bo Wang, Changsen Yuan, Chong Feng, and Ge Shi. Reliable Typical Case Diagnosis via Optimized Retrieval-Augmented Generation Techniques. China Health Information Processing Conference, 214-225, 2024. (Domestic Conference) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-4298-4_19){categories: [knowledge-graphs]}
 
--  Changsen Yuan, Heyan Huang, Chong Feng, Ge Shi, Xiaochi Wei. Document-level relation extraction with entity-selection attention. Information Sciences 568, 163-174, 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025521003285){categories: [knowledge-graphs]}
+- Jianfei Zhao, Tian Chen, Xuan Wang, and Chong Feng. Information Extraction of Unlabeled Patent Based on Knowledge Self-Distillation of Large Language Model. Data Analysis and Knowledge Discovery, 2024, 8(8-9): 133-143. (Chinese Journal) [[Paper]](https://manu44.magtech.com.cn/Jwk_infotech_wk3/CN/10.11925/infotech.2096-3467.2023.1246){categories: [knowledge-graphs]}
 
+- Mengxiao Zhu and Chong Feng. 面向心理健康咨询的藏语数据集及大语言模型构建. 23rd Chinese National Conference on Computational Linguistics, CCL 2024, 326-339, 2024. (Domestic Conference) [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WSqhHRYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=WSqhHRYAAAAJ:tS2w5q8j5-wC){categories: [multilingual]}
 
+- Heyan Huang, Xiao Liu, Ge Shi, and Qian Liu. Event Extraction with Dynamic Prefix Tuning and Relevance Retrieval. IEEE Transactions on Knowledge and Data Engineering 35 (10), 9946-9958, 2023. (CCF A, SCI Q1) [[Paper]](https://ieeexplore.ieee.org/document/10100906){categories: [knowledge-graphs]}
 
+- Ge Shi, Yuanyuan Su, Yanan Ma, and Meng Zhou. A Hybrid Detection and Generation Framework with Separate Encoders for Event Extraction. Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, EACL 2023. (CCF B){categories: [knowledge-graphs]}
 
--   Yongxiu Xu, Heyan Huang, Chong Feng, Yue Hu.A supervised multi-head self-attention network for nested named entity recognition. Proceedings of the AAAI conference on artificial intelligence 35 (16), 14185, 2021. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17669){categories: [knowledge-graphs]}
+- Yanzhi Tian, Xiang Li, Zeming Liu, Yuhang Guo, and Bin Wang. In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Model. Findings of the Association for Computational Linguistics, EMNLP 2023. (CCF B){categories: [multilingual]}
 
+- Bao Chen, Yuanjie Wang, Zeming Liu, and Yuhang Guo. Automatic Evaluate Dialogue Appropriateness by Using Dialogue Act. Findings of the Association for Computational Linguistics, EMNLP 2023. (CCF B) [[Paper]](https://aclanthology.org/2023.findings-emnlp.492/){categories: [multilingual]}
 
+- Mengge Liu, Wen Zhang, Xiang Li, Jian Luan, Bin Wang, Yuhang Guo, and Shuoying Chen. Rethinking the Reasonability of the Test Set for Simultaneous Machine Translation. IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2023. (CCF B) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095739/){categories: [multilingual]}
 
--   Tianfu Zhang, Heyan Huang, Chong Feng, Longbing Cao.Self-supervised bilingual syntactic alignment for neural machine translation. Proceedings of the AAAI Conference on Artificial Intelligence 35 (16), 14454, 2021. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17699){categories: [multilingual]}
+- Meng Liu, Meng Jian, Ge Shi, Yihui Xiang, and Lifang Wu. Graph Contrastive Learning on Complementary Embedding for Recommendation. Proceedings of the 2023 ACM International Conference on Multimedia Retrieval, ICMR 2023. (CCF B){categories: [knowledge-graphs]}
 
+- Ge Shi, Sinuo Deng, Bo Wang, Chong Feng, Yan Zhuang, and Xiaomei Wang. One for All: A Unified Generative Framework for Image Emotion Classification. IEEE Transactions on Circuits and Systems for Video Technology 34 (8), 7057-7068, 2023. (CCF B, SCI Q1) [[Paper]](https://doi.org/10.1109/TCSVT.2023.3341840){categories: [multimodal]}
 
+- Bo Wang, Heyan Huang, Xiaochi Wei, Ge Shi, Xiao Liu, Chong Feng, Tao Zhou, Shuo Wang, and Dong Yin. Boosting Event Extraction with Denoised Structure-to-Text Augmentation. Findings of the Association for Computational Linguistics, ACL 2023 Findings. (CCF A) [[Paper]](https://arxiv.org/pdf/2305.09598){categories: [knowledge-graphs]}
 
--   Tianfu Zhang, Heyan Huang, Chong Feng, Longbing Cao. Enlivening redundant heads in multi-head self-attention for machine translation. 2021 Conference on Empirical Methods in Natural Language Processing, EMNLP 2021. [[Paper]](https://researchers.mq.edu.au/en/publications/enlivening-redundant-heads-in-multi-head-self-attention-for-machi){categories: [multilingual]}
+- Yuting Xu, Chong Feng, Jing Huang, and Xinmu Qi. Retrieval-Augmented Document-Level Event Extraction with Cross-Attention Fusion. Chinese National Conference on Social Media Processing, 218-229, 2023. (Domestic Conference) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-7596-9_16){categories: [knowledge-graphs]}
 
+- Bokai Guo, Chong Feng, Fang Liu, Xinyan Li, and Xiaomei Wang. Joint Contrastive Learning for Factual Consistency Evaluation of Cross-lingual Abstract Summarization. China Conference on Machine Translation, 116-127, 2023. (Domestic Conference) [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-7894-6_11){categories: [multilingual]}
 
--  Ge Shi, Chong Feng, Wenfu Xu, Lejian Liao, Heyan Huang. Penalized multiple distribution selection method for imbalanced data classification. Knowledge-Based Systems 196, 105833, 2020. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302082){categories: [knowledge-graphs]}
+- Xiao Liu, Heyan Huang, Ge Shi, and Bo Wang. Dynamic Prefix-Tuning for Generative Template-based Event Extraction. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, ACL 2022. (CCF A) [[Paper]](https://aclanthology.org/2022.acl-long.358/){categories: [knowledge-graphs]}
+
+- Sinuo Deng, Lifang Wu, Ge Shi, Liang Xing, Wenhui Hu, Hong Zhang, and Yihui Xiang. Simple but Powerful, a Language-supervised Method for Image Emotion Classification. IEEE Transactions on Affective Computing 14 (4), 3317-3331, 2022. (SCI Q1){categories: [multimodal]}
+
+- Ahmed A. Yusuf, Chong Feng, and Xianling Mao. An Analysis of Graph Convolutional Networks and Recent Datasets for Visual Question Answering. Artificial Intelligence Review 55 (8), 6277-6300, 2022. (SCI Q1){categories: [multimodal]}
+
+- Meng Jian, Chang Zhang, Meng Liu, Xian Fu, Shuang Li, Ge Shi, and Lifang Wu. Siamese Graph-based Dynamic Matching for Collaborative Filtering. Information Sciences 611, 185-198, 2022. (SCI Q1){categories: [knowledge-graphs]}
+
+- Wenhui Hu, Yuxuan Chen, Lifang Wu, Ge Shi, Meng Jian, and Sinuo Deng. Boundary-guided Probability Hashing. IEEE International Conference on Multimedia and Expo, ICME 2022. (CCF B){categories: [multimodal]}
+
+- Heyan Huang, Xiao Liu, Yuting Zhang, and Chong Feng. News-driven Stock Prediction via Noisy Equity State Representation. Neurocomputing 470, 66-75, 2022. (SCI Q1){categories: [knowledge-graphs]}
+
+- Changsen Yuan, Heyan Huang, and Chong Feng. Multi-graph Cooperative Learning Towards Distant Supervised Relation Extraction. ACM Transactions on Intelligent Systems and Technology 12 (5), 1-21, 2021. (CCF B, SCI Q1){categories: [knowledge-graphs]}
+
+- An Zheng, Hao Zhao, Zhunchen Luo, Chong Feng, Xiaobing Liu, and Yuxiang Ye. Improving On-line Scientific Resource Profiling by Exploiting Resource Citation Information in the Literature. Information Processing & Management 58 (5), 102638, 2021. (SCI Q1){categories: [knowledge-graphs]}
+
+- Changsen Yuan, Heyan Huang, Chong Feng, Ge Shi, and Xiaochi Wei. Document-level Relation Extraction with Entity-selection Attention. Information Sciences 568, 163-174, 2021. (SCI Q1) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025521003285){categories: [knowledge-graphs]}
+
+- Yongxiu Xu, Heyan Huang, Chong Feng, and Yue Hu. A Supervised Multi-head Self-attention Network for Nested Named Entity Recognition. Proceedings of the AAAI Conference on Artificial Intelligence 35 (16), 14185, 2021. (CCF A) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17669){categories: [knowledge-graphs]}
+
+- Tianfu Zhang, Heyan Huang, Chong Feng, and Longbing Cao. Self-supervised Bilingual Syntactic Alignment for Neural Machine Translation. Proceedings of the AAAI Conference on Artificial Intelligence 35 (16), 14454, 2021. (CCF A) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17699){categories: [multilingual]}
+
+- Tianfu Zhang, Heyan Huang, Chong Feng, and Longbing Cao. Enlivening Redundant Heads in Multi-head Self-attention for Machine Translation. Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, EMNLP 2021. (CCF B) [[Paper]](https://researchers.mq.edu.au/en/publications/enlivening-redundant-heads-in-multi-head-self-attention-for-machi){categories: [multilingual]}
+
+- Heyan Huang, Meng Lei, and Chong Feng. Hypergraph Network Model for Nested Entity Mention Recognition. Neurocomputing 423, 200-206, 2021. (SCI Q1){categories: [knowledge-graphs]}
+
+- Heyan Huang, Meng Lei, and Chong Feng. Graph-based Reasoning Model for Multiple Relation Extraction. Neurocomputing 420, 162-170, 2021. (SCI Q1){categories: [knowledge-graphs]}
+
+- Ge Shi, Chong Feng, Wenfu Xu, Lejian Liao, and Heyan Huang. Penalized Multiple Distribution Selection Method for Imbalanced Data Classification. Knowledge-Based Systems 196, 105833, 2020. (SCI Q1) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302082){categories: [knowledge-graphs]}
 
 
 
@@ -119,9 +171,6 @@ For full paper list, please refer to my [Google Scholar](https://scholar.google.
 
 
 <!-- -  L Hongzheng, W Ruojin, F Chong, L Fang. 英语科技论文摘要语步结构语料库构建研究 (Research on Construction of Corpus for Move Structures in Abstracts of English Scientific Research Articles).Proceedings of the 23rd Chinese National Conference on Computational Linguistics.* [[Paper]](https://aclanthology.org/2024.ccl-1.66/){categories: [multilingual]} -->
-
-
-
 
 
 
