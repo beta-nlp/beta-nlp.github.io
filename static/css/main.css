@@ -128,3 +128,423 @@ section .main-body{
 
 }
 
+/* Recruitment */
+.recruitment-section {
+    --recruitment-blue: var(--bs-blue);
+    --recruitment-accent: var(--bs-blue);
+    --recruitment-ink: var(--h-title-color);
+    --recruitment-muted: #6c757d;
+    padding: 5.5rem 0;
+    scroll-margin-top: 5rem;
+    background: linear-gradient(45deg, #f0f0f0, #f1f1f1);
+}
+
+.recruitment-section h2,
+.recruitment-section h3,
+.recruitment-section p {
+    margin-top: 0;
+}
+
+.recruitment-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 3rem;
+    align-items: end;
+    padding-bottom: 2.25rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.13);
+}
+
+.recruitment-eyebrow,
+.card-kicker {
+    display: block;
+    margin-bottom: 0.35rem;
+    color: var(--recruitment-accent);
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.13em;
+}
+
+.recruitment-heading h2 {
+    margin-bottom: 0.75rem;
+    color: var(--recruitment-ink);
+    font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+    font-size: 2.3rem;
+    line-height: 4rem;
+}
+
+.recruitment-heading h2 i {
+    color: var(--recruitment-accent);
+}
+
+.recruitment-heading p {
+    max-width: 51rem;
+    margin-bottom: 0;
+    color: var(--recruitment-muted);
+    font-size: 1.08rem;
+    line-height: 1.85;
+}
+
+.recruitment-quota {
+    display: flex;
+    align-items: center;
+    gap: 1.75rem;
+    min-width: 22rem;
+    padding: 1.4rem 1.7rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.06);
+    backdrop-filter: blur(10px);
+}
+
+.quota-item {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.quota-item strong {
+    color: var(--recruitment-blue);
+    font-size: 2.1rem;
+    line-height: 1;
+}
+
+.quota-item span {
+    margin-top: 0.5rem;
+    color: var(--recruitment-muted);
+    font-size: 0.86rem;
+    font-weight: 600;
+}
+
+.quota-divider {
+    width: 1px;
+    height: 3.5rem;
+    background: rgba(0, 0, 0, 0.13);
+}
+
+.recruitment-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.25fr) minmax(18rem, 0.75fr);
+    gap: 1.25rem;
+    margin-top: 1.5rem;
+}
+
+.recruitment-card {
+    padding: 2rem;
+    border: 1px solid rgba(0, 0, 0, 0.09);
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.92);
+    box-shadow: 0 0.35rem 1.25rem rgba(0, 0, 0, 0.045);
+}
+
+.card-title-row {
+    display: flex;
+    gap: 0.9rem;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.card-icon {
+    display: grid;
+    flex: 0 0 2.8rem;
+    width: 2.8rem;
+    height: 2.8rem;
+    place-items: center;
+    border-radius: 0.75rem;
+    color: #fff;
+    background: var(--recruitment-blue);
+    font-size: 1.2rem;
+}
+
+.card-title-row .card-kicker {
+    margin-bottom: 0.1rem;
+}
+
+.card-title-row h3 {
+    margin-bottom: 0;
+    color: var(--recruitment-ink);
+    font-size: 1.35rem;
+    font-weight: 750;
+}
+
+.feature-list,
+.check-list,
+.task-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.feature-list {
+    display: grid;
+    gap: 1.25rem;
+}
+
+.feature-list li {
+    display: grid;
+    grid-template-columns: 2.25rem 1fr;
+    gap: 0.8rem;
+    align-items: start;
+}
+
+.feature-list li > i {
+    display: grid;
+    width: 2.25rem;
+    height: 2.25rem;
+    place-items: center;
+    border-radius: 50%;
+    color: var(--recruitment-accent);
+    background: rgba(13, 110, 253, 0.08);
+}
+
+.feature-list div {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+.feature-list strong {
+    color: var(--recruitment-ink);
+    font-size: 1rem;
+}
+
+.feature-list span,
+.check-list li,
+.task-intro,
+.task-list li {
+    color: var(--recruitment-muted);
+    font-size: 0.95rem;
+    line-height: 1.75;
+}
+
+.check-list {
+    display: grid;
+    gap: 0.9rem;
+}
+
+.check-list li {
+    position: relative;
+    padding-left: 1.7rem;
+}
+
+.check-list li::before {
+    content: "\2713";
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: var(--recruitment-accent);
+    font-weight: 800;
+}
+
+.task-card {
+    grid-column: 1 / -1;
+}
+
+.paper-label {
+    margin-bottom: 0.55rem;
+    color: var(--recruitment-muted);
+    font-size: 0.78rem;
+    font-weight: 700;
+}
+
+.paper-link {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.15rem;
+    border-left: 3px solid var(--recruitment-accent);
+    color: var(--recruitment-ink);
+    background: #f7f7f7;
+    text-decoration: none;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.paper-link:hover {
+    color: var(--recruitment-blue);
+    background: #efefef;
+    transform: translateX(0.2rem);
+}
+
+.paper-link span {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.paper-link cite {
+    font-size: 0.96rem;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.paper-link small {
+    color: var(--recruitment-muted);
+}
+
+.task-intro {
+    margin: 1.35rem 0 0.65rem;
+}
+
+.task-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+.task-list li {
+    padding: 1rem;
+    border: 1px solid #e4e4e4;
+    border-radius: 0.75rem;
+    background: #fff;
+}
+
+.task-list li span {
+    display: block;
+    margin-bottom: 0.3rem;
+    color: var(--recruitment-accent);
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+}
+
+.task-submission {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1.25rem;
+    padding: 0.9rem 1rem;
+    border: 1px solid #e4e4e4;
+    border-radius: 0.75rem;
+    background: #f7f7f7;
+}
+
+.submission-copy {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+}
+
+.submission-copy > i {
+    color: var(--recruitment-accent);
+    font-size: 1.2rem;
+}
+
+.submission-copy p {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    line-height: 1.45;
+}
+
+.submission-copy strong {
+    color: var(--recruitment-ink);
+    font-size: 0.9rem;
+}
+
+.submission-copy span {
+    color: var(--recruitment-muted);
+    font-size: 0.84rem;
+}
+
+.application-button {
+    display: flex;
+    flex: 0 0 auto;
+    gap: 0.85rem;
+    align-items: center;
+    padding: 0.55rem 0.75rem;
+    border: 1px solid rgba(13, 110, 253, 0.18);
+    border-radius: 0.5rem;
+    color: var(--recruitment-accent);
+    background: #fff;
+    text-decoration: none;
+    box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.application-button:hover {
+    color: var(--recruitment-accent);
+    transform: translateY(-2px);
+    box-shadow: 0 0.35rem 0.9rem rgba(0, 0, 0, 0.09);
+}
+
+.application-button > i {
+    font-size: 1rem;
+}
+
+.application-button span {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.82rem;
+    font-weight: 750;
+}
+
+.application-button small {
+    color: var(--recruitment-muted);
+    font-size: 0.65rem;
+    font-weight: 600;
+}
+
+@media (max-width: 991.98px) {
+    .recruitment-hero,
+    .recruitment-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .recruitment-quota {
+        width: 100%;
+        min-width: 0;
+    }
+
+    .task-card {
+        grid-column: auto;
+    }
+
+    .task-list {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .recruitment-section {
+        padding: 4rem 0;
+    }
+
+    .recruitment-section .container {
+        padding-right: 1.25rem !important;
+        padding-left: 1.25rem !important;
+    }
+
+    .recruitment-hero {
+        gap: 1.5rem;
+    }
+
+    .recruitment-heading p {
+        font-size: 1rem;
+    }
+
+    .recruitment-quota {
+        gap: 1rem;
+        padding: 1.2rem 1rem;
+    }
+
+    .quota-item strong {
+        font-size: 1.75rem;
+    }
+
+    .recruitment-card {
+        padding: 1.4rem;
+    }
+
+    .task-submission {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .application-button {
+        justify-content: center;
+    }
+}
