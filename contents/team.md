@@ -40,6 +40,20 @@
   </div>
 </a>
 
+<a href="https://xszhong.github.io/" class="faculty-link">
+  <div class="faculty-card">
+    <img
+      src="../static/assets/head/xiaoshizhong.png"
+      alt="Xiaoshi Zhong"
+      class="faculty-avatar"
+    >
+    <div class="faculty-info">
+      <h4 class="faculty-name">Xiaoshi Zhong</h4>
+      <p class="faculty-role">Associate Professor, PhD Supervisor</p>
+    </div>
+  </div>
+</a>
+
 
 
   <!-- 第一位Faculty：Chong Feng -->
@@ -80,6 +94,18 @@
       <p class="faculty-role">Post-Doctoral</p>
       <!-- <p class="faculty-research">Research Focus: [研究方向，如Large Language Models, Knowledge Graphs]</p>
       <p class="faculty-honor">[相关荣誉，如XX Project PI, ACL Senior Program Committee]</p> -->
+    </div>
+  </div>
+
+  <div class="faculty-card">
+    <img
+      src="../static/assets/head/zhangdong.png"
+      alt="Dong Zhang"
+      class="faculty-avatar"
+    >
+    <div class="faculty-info">
+      <h4 class="faculty-name">Dong Zhang</h4>
+      <p class="faculty-role">Post-Doctoral</p>
     </div>
   </div>
 

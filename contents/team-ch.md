@@ -40,6 +40,20 @@
   </div>
   </a>
 
+  <a href="https://xszhong.github.io/" class="faculty-link">
+  <div class="faculty-card">
+    <img
+      src="../static/assets/head/xiaoshizhong.png"
+      alt="钟晓时"
+      class="faculty-avatar"
+    >
+    <div class="faculty-info">
+      <h4 class="faculty-name">钟晓时</h4>
+      <p class="faculty-role">副教授, 博士生导师</p>
+    </div>
+  </div>
+  </a>
+
 
   <a href="https://cs.bit.edu.cn/szdw/jsml/sssds/46c68d5f9f064fc6bd6b510a62f7c189.htm" class="faculty-link">
   <div class="faculty-card">
@@ -73,6 +87,18 @@
       <p class="faculty-role">博士后</p>
       <!-- <p class="faculty-research">Research Focus: [研究方向，如Large Language Models, Knowledge Graphs]</p>
       <p class="faculty-honor">[相关荣誉，如XX Project PI, ACL Senior Program Committee]</p> -->
+    </div>
+  </div>
+
+  <div class="faculty-card">
+    <img
+      src="../static/assets/head/zhangdong.png"
+      alt="张东"
+      class="faculty-avatar"
+    >
+    <div class="faculty-info">
+      <h4 class="faculty-name">张东</h4>
+      <p class="faculty-role">博士后</p>
     </div>
   </div>
 
